@@ -89,9 +89,21 @@ config.py
 *.log
 
 # Large data files (optional - you might want to include some sample data)
-data/fetched data/*.jsonl
-data/embeddings/*.csv
-data/cleaned data/*.json
+data/
+Website/data/
+*.csv
+*.json
+*.jsonl
+
+# Embedding files (too large for GitHub)
+**/embeddings_articles.csv
+**/embeddings_concepts.csv
+Website/data/embeddings/*.csv
+
+# All data directories
+data/fetched data/
+data/embeddings/
+data/cleaned data/
 
 # Neo4j
 .neo4j/
