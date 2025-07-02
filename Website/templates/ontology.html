@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ontology Explorer - Scientific Recommender</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body
+    class="bg-gradient-to-br from-gray-900 via-blue-900 to-gray-900 text-white font-sans min-h-screen"
+  >
+    <div class="container mx-auto p-6 max-w-6xl">
+      <!-- Header -->
+      <div class="text-center mb-8">
+        <h1
+          class="text-5xl font-extrabold bg-gradient-to-r from-blue-400 via-purple-500 to-cyan-400 bg-clip-text text-transparent mb-4"
+        >
+          🧠 Ontology Explorer
+        </h1>
+        <p class="text-xl text-gray-300 mb-6">
+          Explore the Knowledge Graph Structure
+        </p>
+        <a
+          href="/"
+          class="inline-flex items-center bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg transition-all duration-300 transform hover:scale-105 shadow-lg"
+        >
+          <i class="fas fa-arrow-left mr-2"></i>Back to Home
+        </a>
+      </div>
+
+      <!-- Ontology Schema Card -->
+      <div
+        class="bg-gradient-to-r from-gray-800 to-gray-700 p-8 rounded-2xl shadow-2xl mb-8 border border-gray-600"
+      >
+        <div class="flex items-center mb-6">
+          <i class="fas fa-sitemap text-3xl text-blue-400 mr-4"></i>
+          <h2 class="text-3xl font-bold text-white">Ontology Schema</h2>
+        </div>
+
+        <div class="grid md:grid-cols-2 gap-6">
+          <!-- Classes Section -->
+          <div class="bg-gray-900 p-6 rounded-xl border border-blue-500/30">
+            <h3
+              class="text-xl font-semibold text-blue-400 mb-4 flex items-center"
+            >
+              <i class="fas fa-cubes mr-2"></i>Classes
+            </h3>
+            <div class="flex flex-wrap gap-2">
+              <span class="bg-blue-600 px-3 py-1 rounded-full text-sm"
+                >Work</span
+              >
+              <span class="bg-green-600 px-3 py-1 rounded-full text-sm"
+                >Concept</span
+              >
+              <span class="bg-purple-600 px-3 py-1 rounded-full text-sm"
+                >User</span
+              >
+              <span class="bg-yellow-600 px-3 py-1 rounded-full text-sm"
+                >Author</span
+              >
+              <span class="bg-red-600 px-3 py-1 rounded-full text-sm"
+                >Institution</span
+              >
+            </div>
+          </div>
+
+          <!-- Object Properties Section -->
+          <div class="bg-gray-900 p-6 rounded-xl border border-green-500/30">
+            <h3
+              class="text-xl font-semibold text-green-400 mb-4 flex items-center"
+            >
+              <i class="fas fa-link mr-2"></i>Object Properties
+            </h3>
+            <ul class="space-y-2 text-sm">
+              <li class="flex items-center">
+                <i class="fas fa-arrow-right text-blue-400 mr-2"></i>hasTopic:
+                Work → Concept
+              </li>
+              <li class="flex items-center">
+                <i class="fas fa-arrow-right text-blue-400 mr-2"></i>hasConcept:
+                Work → Concept
+              </li>
+              <li class="flex items-center">
+                <i class="fas fa-arrow-right text-green-400 mr-2"></i
+                >isSubclassOf: Concept → Concept
+              </li>
+              <li class="flex items-center">
+                <i class="fas fa-arrow-right text-purple-400 mr-2"></i
+                >hasInterest: User → Concept
+              </li>
+              <li class="flex items-center">
+                <i class="fas fa-arrow-right text-yellow-400 mr-2"></i
+                >hasAuthor: Work → Author
+              </li>
+              <li class="flex items-center">
+                <i class="fas fa-arrow-right text-red-400 mr-2"></i>worksAt:
+                Author → Institution
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- Data Properties Section -->
+        <div
+          class="mt-6 bg-gray-900 p-6 rounded-xl border border-purple-500/30"
+        >
+          <h3
+            class="text-xl font-semibold text-purple-400 mb-4 flex items-center"
+          >
+            <i class="fas fa-database mr-2"></i>Data Properties
+          </h3>
+          <div class="flex flex-wrap gap-2">
+            <span class="bg-gray-700 px-2 py-1 rounded text-xs"
+              >hasOpenAlexId</span
+            >
+            <span class="bg-gray-700 px-2 py-1 rounded text-xs">hasTitle</span>
+            <span class="bg-gray-700 px-2 py-1 rounded text-xs"
+              >hasAbstract</span
+            >
+            <span class="bg-gray-700 px-2 py-1 rounded text-xs"
+              >publishedInYear</span
+            >
+            <span class="bg-gray-700 px-2 py-1 rounded text-xs"
+              >citedByCount</span
+            >
+            <span class="bg-gray-700 px-2 py-1 rounded text-xs">domain</span>
+            <span class="bg-gray-700 px-2 py-1 rounded text-xs">hasLevel</span>
+            <span class="bg-gray-700 px-2 py-1 rounded text-xs"
+              >hasWikidataId</span
+            >
+            <span class="bg-gray-700 px-2 py-1 rounded text-xs">has_id</span>
+            <span class="bg-gray-700 px-2 py-1 rounded text-xs"
+              >hasAbstractEmbedding</span
+            >
+            <span class="bg-gray-700 px-2 py-1 rounded text-xs"
+              >hasNameEmbedding</span
+            >
+            <span class="bg-gray-700 px-2 py-1 rounded text-xs"
+              >skos__prefLabel</span
+            >
+            <span class="bg-gray-700 px-2 py-1 rounded text-xs"
+              >foaf__name</span
+            >
+          </div>
+        </div>
+      </div>
+
+      <!-- Concept Search Card -->
+      <div
+        class="bg-gradient-to-r from-gray-800 to-gray-700 p-8 rounded-2xl shadow-2xl mb-8 border border-gray-600"
+      >
+        <div class="flex items-center mb-6">
+          <i class="fas fa-search text-3xl text-cyan-400 mr-4"></i>
+          <h2 class="text-3xl font-bold text-white">Search Concept Ontology</h2>
+        </div>
+
+        <div class="flex gap-4">
+          <div class="relative flex-grow">
+            <i
+              class="fas fa-search absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400"
+            ></i>
+            <input
+              type="text"
+              id="conceptInput"
+              placeholder="Enter concept (e.g., Neural Networks, Machine Learning)"
+              class="w-full pl-10 pr-4 py-4 bg-gray-900 border border-gray-600 rounded-xl focus:outline-none focus:ring-2 focus:ring-cyan-500 focus:border-transparent text-white placeholder-gray-400 transition-all duration-300"
+            />
+          </div>
+          <button
+            onclick="searchConcept()"
+            class="bg-gradient-to-r from-cyan-500 to-blue-500 hover:from-cyan-600 hover:to-blue-600 text-white px-8 py-4 rounded-xl transition-all duration-300 transform hover:scale-105 shadow-lg flex items-center"
+          >
+            <i class="fas fa-search mr-2"></i>Search
+          </button>
+        </div>
+      </div>
+
+      <!-- Concept Results Card -->
+      <div
+        id="conceptResults"
+        class="bg-gradient-to-r from-gray-800 to-gray-700 p-8 rounded-2xl shadow-2xl hidden border border-gray-600"
+      >
+        <div class="flex items-center mb-6">
+          <i class="fas fa-info-circle text-3xl text-green-400 mr-4"></i>
+          <h2 class="text-3xl font-bold text-white">Concept Details</h2>
+        </div>
+        <div id="conceptDetails" class="space-y-4"></div>
+      </div>
+    </div>
+
+    <script>
+      async function searchConcept() {
+        const concept = document.getElementById("conceptInput").value;
+        if (!concept.trim()) {
+          alert("Please enter a concept!");
+          return;
+        }
+
+        // Add loading state
+        const button = document.querySelector(
+          'button[onclick="searchConcept()"]'
+        );
+        const originalContent = button.innerHTML;
+        button.innerHTML =
+          '<i class="fas fa-spinner fa-spin mr-2"></i>Searching...';
+        button.disabled = true;
+
+        try {
+          const response = await fetch("/concept_search", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ concept }),
+          });
+          const data = await response.json();
+          if (response.ok) {
+            displayConceptDetails(data);
+          } else {
+            alert("Error: " + data.error);
+            document.getElementById("conceptResults").classList.add("hidden");
+          }
+        } catch (error) {
+          alert("Error fetching concept details: " + error.message);
+          document.getElementById("conceptResults").classList.add("hidden");
+        } finally {
+          // Reset button state
+          button.innerHTML = originalContent;
+          button.disabled = false;
+        }
+      }
+
+      function displayConceptDetails(data) {
+        const details = document.getElementById("conceptDetails");
+        details.innerHTML = `
+          <div class="grid gap-6">
+            <div class="bg-gray-900 p-6 rounded-xl border border-blue-500/30">
+              <h3 class="text-xl font-semibold text-blue-400 mb-3 flex items-center">
+                <i class="fas fa-tag mr-2"></i>Concept Information
+              </h3>
+              <p class="text-lg font-semibold text-white mb-2">${data.label}</p>
+              <p class="text-sm text-gray-400 break-all">${data.uri}</p>
+            </div>
+
+            <div class="grid md:grid-cols-2 gap-6">
+              <div class="bg-gray-900 p-6 rounded-xl border border-green-500/30">
+                <h3 class="text-xl font-semibold text-green-400 mb-3 flex items-center">
+                  <i class="fas fa-level-up-alt mr-2"></i>Superclasses
+                </h3>
+                <div class="space-y-2">
+                  ${
+                    data.superclasses.length
+                      ? data.superclasses
+                          .map(
+                            (sc) =>
+                              `<span class="inline-block bg-green-600 px-3 py-1 rounded-full text-sm mr-2 mb-2">${sc}</span>`
+                          )
+                          .join("")
+                      : '<span class="text-gray-400 italic">No superclasses found</span>'
+                  }
+                </div>
+              </div>
+
+              <div class="bg-gray-900 p-6 rounded-xl border border-yellow-500/30">
+                <h3 class="text-xl font-semibold text-yellow-400 mb-3 flex items-center">
+                  <i class="fas fa-level-down-alt mr-2"></i>Subclasses
+                </h3>
+                <div class="space-y-2">
+                  ${
+                    data.subclasses.length
+                      ? data.subclasses
+                          .map(
+                            (sc) =>
+                              `<span class="inline-block bg-yellow-600 px-3 py-1 rounded-full text-sm mr-2 mb-2">${sc}</span>`
+                          )
+                          .join("")
+                      : '<span class="text-gray-400 italic">No subclasses found</span>'
+                  }
+                </div>
+              </div>
+            </div>
+
+            <div class="bg-gray-900 p-6 rounded-xl border border-purple-500/30">
+              <h3 class="text-xl font-semibold text-purple-400 mb-3 flex items-center">
+                <i class="fas fa-file-alt mr-2"></i>Related Works (${
+                  data.related_works.length
+                })
+              </h3>
+              <div class="max-h-60 overflow-y-auto">
+                ${
+                  data.related_works.length
+                    ? data.related_works
+                        .slice(0, 10)
+                        .map(
+                          (work, index) =>
+                            `<div class="p-3 bg-gray-800 rounded-lg mb-2 border-l-4 border-purple-500">
+                       <p class="text-sm text-gray-200">${work}</p>
+                     </div>`
+                        )
+                        .join("") +
+                      (data.related_works.length > 10
+                        ? `<p class="text-gray-400 text-sm mt-2 italic">... and ${
+                            data.related_works.length - 10
+                          } more works</p>`
+                        : "")
+                    : '<span class="text-gray-400 italic">No related works found</span>'
+                }
+              </div>
+            </div>
+          </div>
+        `;
+        document.getElementById("conceptResults").classList.remove("hidden");
+        document
+          .getElementById("conceptResults")
+          .scrollIntoView({ behavior: "smooth" });
+      }
+
+      // Add Enter key support for search
+      document
+        .getElementById("conceptInput")
+        .addEventListener("keypress", function (event) {
+          if (event.key === "Enter") {
+            searchConcept();
+          }
+        });
+    </script>
+  </body>
+</html>

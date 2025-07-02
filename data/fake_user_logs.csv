@@ -1,0 +1,1443 @@
+user_id,article_id,interaction_type,timestamp,duration_seconds,topic
+User_0,https://openalex.org/W2073775990,read,2025-05-13 02:22:52,208,Bioinformatics
+User_0,https://openalex.org/W2116199508,read,2025-05-21 16:26:09,509,Bioinformatics
+User_0,https://openalex.org/W1988091937,click,2025-05-08 14:47:26,0,Genomics
+User_0,https://openalex.org/W2017196167,click,2025-05-21 04:49:08,0,Bioinformatics
+User_0,https://openalex.org/W2150066425,click,2025-05-05 18:44:12,0,Bioinformatics
+User_0,https://openalex.org/W2164278908,cite,2025-05-17 08:28:57,0,Genomics
+User_0,https://openalex.org/W2138621811,cite,2025-05-22 23:01:01,0,Genomics
+User_0,https://openalex.org/W2799524357,read,2025-05-24 18:33:20,145,Genomics
+User_0,https://openalex.org/W3125349408,cite,2025-05-18 13:10:09,0,Bioinformatics
+User_0,https://openalex.org/W2141157874,read,2025-05-05 09:38:32,556,Bioinformatics
+User_0,https://openalex.org/W4301958211,read,2025-05-22 05:15:28,357,Bioinformatics
+User_0,https://openalex.org/W3005235420,read,2025-05-17 10:39:31,138,Genomics
+User_0,https://openalex.org/W1966078827,click,2025-05-23 09:53:27,0,Bioinformatics
+User_0,https://openalex.org/W2084744129,read,2025-05-16 01:45:48,392,Genomics
+User_0,https://openalex.org/W2141052558,read,2025-04-29 04:14:02,45,Bioinformatics
+User_0,https://openalex.org/W2096093282,cite,2025-05-04 14:38:43,0,Genomics
+User_0,https://openalex.org/W2139122730,cite,2025-05-24 08:31:42,0,Genomics
+User_0,https://openalex.org/W2964350391,read,2025-05-17 01:55:47,154,Bioinformatics
+User_0,https://openalex.org/W2725897987,read,2025-05-17 08:22:20,586,Bioinformatics
+User_0,https://openalex.org/W2047940964,click,2025-05-23 09:00:56,0,Genomics
+User_0,https://openalex.org/W2156046656,click,2025-05-27 19:02:23,0,Genomics
+User_1,https://openalex.org/W3123035919,click,2025-05-05 20:11:46,0,Grip strength
+User_1,https://openalex.org/W2493916176,cite,2025-05-08 00:28:20,0,FLOPS
+User_1,https://openalex.org/W2031611770,read,2025-05-07 19:14:35,383,"Diabetes, Cardiovascular Risks, and Lipoproteins"
+User_1,https://openalex.org/W2147880316,read,2025-05-15 15:58:31,233,Bidirectional search
+User_1,https://openalex.org/W2152885278,read,2025-05-03 14:46:54,251,"Foucault, Power, and Ethics"
+User_1,https://openalex.org/W3118608800,read,2025-05-11 10:47:19,558,Graphene research and applications
+User_1,https://openalex.org/W2145023731,read,2025-05-04 04:35:28,593,Graphene and Nanomaterials Applications
+User_1,https://openalex.org/W2079325629,cite,2025-05-25 08:06:29,0,Feature matching
+User_1,https://openalex.org/W2024060531,cite,2025-05-15 14:28:52,0,Educational Challenges and Innovations
+User_1,https://openalex.org/W2159080219,read,2025-05-25 23:02:42,326,Negative feedback
+User_1,https://openalex.org/W2098126593,click,2025-05-23 06:20:58,0,Phylogenetic network
+User_1,https://openalex.org/W2041280856,click,2025-05-17 12:50:22,0,Base pair
+User_1,https://openalex.org/W2044465660,read,2025-05-24 19:53:32,224,Sampling (signal processing)
+User_1,https://openalex.org/W2168356304,read,2025-05-07 14:16:07,572,Bandwidth (computing)
+User_1,https://openalex.org/W2168356304,read,2025-05-16 08:54:15,192,Environmental economics
+User_1,https://openalex.org/W2085261163,read,2025-05-05 00:49:32,461,Foreign policy
+User_1,https://openalex.org/W2163352848,read,2025-05-10 15:31:39,247,Nuclear magnetic resonance
+User_1,https://openalex.org/W1985749074,read,2025-05-25 03:11:21,230,Nitrocellulose
+User_1,https://openalex.org/W2963073614,read,2025-04-30 16:24:56,360,Density functional theory
+User_1,https://openalex.org/W2053186076,read,2025-05-05 04:19:53,587,Visual cortex
+User_1,https://openalex.org/W2985849463,click,2025-05-28 16:46:31,0,Educational Assessment and Pedagogy
+User_1,https://openalex.org/W2041282815,read,2025-05-11 11:02:26,488,Tree rearrangement
+User_1,https://openalex.org/W2963150697,click,2025-05-10 04:08:41,0,Linear network coding
+User_1,https://openalex.org/W2019207321,click,2025-05-14 01:48:41,0,HIV Research and Treatment
+User_1,https://openalex.org/W3123035919,read,2025-05-23 10:17:02,423,Coronal plane
+User_1,https://openalex.org/W2160547390,click,2025-05-06 16:52:28,0,Organizational theory
+User_1,https://openalex.org/W2100495367,cite,2025-05-13 14:12:35,0,Signal reconstruction
+User_1,https://openalex.org/W2162437324,read,2025-05-25 08:41:37,366,advanced mathematical theories
+User_1,https://openalex.org/W2950577311,cite,2025-04-30 14:36:19,0,Electromagnetic field
+User_1,https://openalex.org/W2990138404,cite,2025-05-23 05:19:30,0,Rule-based machine translation
+User_1,https://openalex.org/W62824994,read,2025-05-21 00:13:07,481,Association (psychology)
+User_1,https://openalex.org/W1985588649,read,2025-05-03 13:44:43,372,Industrial organization
+User_1,https://openalex.org/W3138516171,click,2025-05-13 03:37:13,0,Complementary assets
+User_1,https://openalex.org/W2963351448,read,2025-05-08 18:30:02,430,Electronic structure
+User_1,https://openalex.org/W2142596760,cite,2025-05-10 01:22:15,0,Simple (philosophy)
+User_1,https://openalex.org/W2019207321,read,2025-05-20 20:36:13,408,Evapotranspiration
+User_1,https://openalex.org/W1969761972,cite,2025-05-28 18:18:56,0,Chondrogenesis
+User_1,https://openalex.org/W2156125289,read,2025-05-26 19:37:03,113,Internet of Things
+User_1,https://openalex.org/W2160815625,click,2025-05-12 16:25:43,0,Compressed suffix array
+User_1,https://openalex.org/W1665214252,click,2025-05-09 23:59:29,0,Tensor (intrinsic definition)
+User_1,https://openalex.org/W4293584584,read,2025-05-12 10:51:45,455,Genome-wide association study
+User_1,https://openalex.org/W2164598857,read,2025-05-24 06:26:21,373,Agency cost
+User_1,https://openalex.org/W1649645444,read,2025-05-24 10:02:04,507,Fuzzy control system
+User_1,https://openalex.org/W2063978378,click,2025-05-15 09:33:44,0,Censoring (clinical trials)
+User_2,https://openalex.org/W2092157292,click,2025-05-26 14:33:34,0,Bioinformatics
+User_2,https://openalex.org/W2797247465,read,2025-05-15 22:35:26,486,Bioinformatics
+User_2,https://openalex.org/W4297775537,click,2025-05-12 23:55:37,0,Genomics
+User_2,https://openalex.org/W2059205366,read,2025-05-14 01:26:52,594,Genomics
+User_2,https://openalex.org/W2905811773,read,2025-05-19 00:33:44,562,Bioinformatics
+User_2,https://openalex.org/W2165429918,click,2025-05-17 08:59:12,0,Bioinformatics
+User_2,https://openalex.org/W1988925586,click,2025-05-22 20:27:11,0,Bioinformatics
+User_2,https://openalex.org/W2145096794,click,2025-05-11 04:38:22,0,Bioinformatics
+User_2,https://openalex.org/W3149395617,read,2025-05-02 17:24:20,244,Bioinformatics
+User_2,https://openalex.org/W2122111042,read,2025-05-07 03:57:01,560,Genomics
+User_2,https://openalex.org/W2250539671,click,2025-05-02 23:23:13,0,Bioinformatics
+User_2,https://openalex.org/W2016260972,read,2025-05-04 01:07:36,481,Bioinformatics
+User_2,https://openalex.org/W2147993766,click,2025-05-02 13:48:00,0,Bioinformatics
+User_2,https://openalex.org/W2124351063,read,2025-05-26 04:42:52,535,Bioinformatics
+User_2,https://openalex.org/W2061301711,click,2025-05-08 06:48:03,0,Bioinformatics
+User_2,https://openalex.org/W2067174909,click,2025-05-06 17:21:40,0,Genomics
+User_2,https://openalex.org/W2160643434,read,2025-05-17 05:48:39,221,Bioinformatics
+User_2,https://openalex.org/W2108834246,read,2025-04-29 18:06:54,61,Genomics
+User_2,https://openalex.org/W4293105157,read,2025-05-06 14:56:02,436,Bioinformatics
+User_2,https://openalex.org/W2963446712,click,2025-05-19 16:21:36,0,Genomics
+User_2,https://openalex.org/W2162530578,read,2025-05-06 15:46:30,133,Genomics
+User_2,https://openalex.org/W2008854521,click,2025-05-07 12:32:38,0,Genomics
+User_2,https://openalex.org/W2152095411,read,2025-05-17 09:18:05,169,Bioinformatics
+User_2,https://openalex.org/W2125055259,read,2025-05-13 16:48:33,214,Genomics
+User_2,https://openalex.org/W2319902168,read,2025-04-29 15:52:34,188,Bioinformatics
+User_2,https://openalex.org/W2145023731,read,2025-05-17 19:25:05,587,Bioinformatics
+User_2,https://openalex.org/W2167928095,read,2025-05-17 12:57:28,69,Bioinformatics
+User_2,https://openalex.org/W2158489424,read,2025-05-13 07:24:03,67,Genomics
+User_2,https://openalex.org/W2613718673,read,2025-04-29 05:50:56,477,Genomics
+User_2,https://openalex.org/W2151693816,read,2025-05-20 03:51:17,157,Genomics
+User_2,https://openalex.org/W2121394112,click,2025-05-01 01:51:42,0,Genomics
+User_2,https://openalex.org/W2271840356,click,2025-05-13 20:52:19,0,Bioinformatics
+User_2,https://openalex.org/W2033990154,read,2025-05-13 07:05:51,417,Bioinformatics
+User_2,https://openalex.org/W2022768097,read,2025-05-19 01:26:54,103,Bioinformatics
+User_2,https://openalex.org/W2102619694,read,2025-05-25 14:19:45,270,Bioinformatics
+User_3,https://openalex.org/W2157823046,read,2025-05-14 15:35:22,453,Autophagy
+User_3,https://openalex.org/W2053186076,cite,2025-05-01 07:54:41,0,Molecular Junctions and Nanostructures
+User_3,https://openalex.org/W2978725006,read,2025-05-16 04:22:36,265,Likelihood-ratio test
+User_3,https://openalex.org/W2112081648,read,2025-05-20 19:50:05,484,Statistical Methods and Applications
+User_3,https://openalex.org/W2074682976,read,2025-05-14 19:08:12,456,Agency (philosophy)
+User_3,https://openalex.org/W2133674686,cite,2025-05-19 22:11:51,0,Beam search
+User_3,https://openalex.org/W2148534890,read,2025-05-21 05:44:22,100,Test theory
+User_3,https://openalex.org/W3126094737,read,2025-05-23 03:53:03,331,Delocalized electron
+User_3,https://openalex.org/W2147800946,cite,2025-05-24 05:53:58,0,Horseradish peroxidase
+User_3,https://openalex.org/W2153635508,read,2025-04-30 22:39:50,177,Quantum chemical
+User_3,https://openalex.org/W2056370875,read,2025-05-21 02:56:56,163,Iterative and incremental development
+User_3,https://openalex.org/W1963957860,cite,2025-05-28 01:41:33,0,Transversion
+User_3,https://openalex.org/W2109394932,read,2025-05-21 11:48:13,222,Promotion (chess)
+User_3,https://openalex.org/W2046412723,read,2025-05-08 06:14:35,479,Facial Nerve Paralysis Treatment and Research
+User_3,https://openalex.org/W2146395539,click,2025-05-24 20:46:59,0,Archaeology and ancient environmental studies
+User_3,https://openalex.org/W3102014803,read,2025-05-06 03:45:56,34,Hash chain
+User_3,https://openalex.org/W2090299671,read,2025-05-20 02:54:53,207,Presentation (obstetrics)
+User_3,https://openalex.org/W2134967712,read,2025-05-27 22:08:06,261,Crystallite
+User_3,https://openalex.org/W2122912498,read,2025-05-10 19:09:49,382,Cysteine
+User_3,https://openalex.org/W2140956556,read,2025-05-10 20:26:07,395,Chaos control and synchronization
+User_3,https://openalex.org/W2128572087,read,2025-05-06 14:13:20,77,Viral Infectious Diseases and Gene Expression in Insects
+User_3,https://openalex.org/W2032558547,cite,2025-05-14 04:29:21,0,Spectral density
+User_3,https://openalex.org/W2042281163,read,2025-05-11 22:54:37,198,Need to know
+User_3,https://openalex.org/W2896457183,click,2025-05-16 23:15:02,0,F-box protein
+User_3,https://openalex.org/W4230809332,read,2025-05-17 18:46:23,330,Doping
+User_3,https://openalex.org/W1990074132,read,2025-05-18 10:04:00,133,Millimeter-Wave Propagation and Modeling
+User_3,https://openalex.org/W2962914239,read,2025-05-23 13:04:00,587,Quantitative proteomics
+User_3,https://openalex.org/W3002539152,read,2025-05-15 00:49:46,303,Inflation (cosmology)
+User_3,https://openalex.org/W2164598857,click,2025-05-04 04:29:21,0,Visual cortex
+User_3,https://openalex.org/W2110835349,read,2025-05-11 11:19:58,362,Organizational studies
+User_3,https://openalex.org/W1913957972,cite,2025-05-23 02:19:50,0,Extracellular matrix
+User_3,https://openalex.org/W2139248078,read,2025-05-10 16:36:28,290,Geotechnical Engineering and Soil Mechanics
+User_3,https://openalex.org/W2145538332,read,2025-05-14 10:01:19,216,Stochastic Petri net
+User_3,https://openalex.org/W2118898434,read,2025-05-12 14:04:03,563,Plant Taxonomy and Phylogenetics
+User_3,https://openalex.org/W2116006659,read,2025-05-20 15:59:38,422,Video tracking
+User_3,https://openalex.org/W4212841973,read,2025-05-27 02:31:40,72,Common-method variance
+User_3,https://openalex.org/W1566830427,cite,2025-05-12 23:18:49,0,Pharmacogenetics and Drug Metabolism
+User_4,https://openalex.org/W1951008065,read,2025-05-08 06:38:28,187,Healthcare Technology and Patient Monitoring
+User_4,https://openalex.org/W2045656233,click,2025-05-03 03:09:58,0,Data Protection Act 1998
+User_4,https://openalex.org/W2250539671,click,2025-05-16 13:04:22,0,SIGNAL (programming language)
+User_4,https://openalex.org/W2993383518,click,2025-05-21 03:02:30,0,Directed graph
+User_4,https://openalex.org/W2160815625,read,2025-05-13 02:03:30,289,Protoplast
+User_4,https://openalex.org/W2111308925,read,2025-05-05 21:15:13,387,In silico
+User_4,https://openalex.org/W3177828909,read,2025-05-14 12:50:05,160,Climate Change and Sustainable Development
+User_4,https://openalex.org/W2148143831,cite,2025-04-29 14:32:43,0,Human-Automation Interaction and Safety
+User_4,https://openalex.org/W3123035919,cite,2025-05-24 01:40:05,0,Automated reasoning
+User_4,https://openalex.org/W2154053567,click,2025-05-25 05:26:12,0,Human visual system model
+User_4,https://openalex.org/W2140956556,cite,2025-05-17 03:14:07,0,Gas Dynamics and Kinetic Theory
+User_4,https://openalex.org/W2133665775,read,2025-05-02 14:02:09,546,F-box protein
+User_4,https://openalex.org/W2106822551,read,2025-05-22 15:07:52,252,Statistical and numerical algorithms
+User_4,https://openalex.org/W1522048223,click,2025-05-26 02:35:55,0,Salmonella and Campylobacter epidemiology
+User_4,https://openalex.org/W2118877769,click,2025-05-27 02:58:31,0,Marketing research
+User_4,https://openalex.org/W2404280981,read,2025-05-15 20:49:23,520,Generative grammar
+User_4,https://openalex.org/W2102619694,click,2025-05-16 15:18:14,0,Supply chain
+User_4,https://openalex.org/W2194775991,read,2025-05-16 13:59:21,59,Conformational isomerism
+User_4,https://openalex.org/W2100358124,read,2025-05-14 00:31:48,538,Protein structure
+User_4,https://openalex.org/W1680392829,cite,2025-05-05 14:27:57,0,Image segmentation
+User_4,https://openalex.org/W3118608800,read,2025-05-01 07:48:35,226,Helix (gastropod)
+User_4,https://openalex.org/W2766736793,read,2025-05-27 01:55:49,363,Social Science and Policy Research
+User_5,https://openalex.org/W1490421035,read,2025-05-01 19:37:53,91,Protein Structure and Dynamics
+User_5,https://openalex.org/W2041404167,cite,2025-05-24 07:03:50,0,Health promotion
+User_5,https://openalex.org/W1554944419,read,2025-05-09 03:49:53,511,Approximation Theory and Sequence Spaces
+User_5,https://openalex.org/W1677182931,read,2025-05-12 06:24:42,494,Face Recognition and Perception
+User_5,https://openalex.org/W1730782591,cite,2025-05-26 08:46:31,0,Low-power high-performance VLSI design
+User_5,https://openalex.org/W2132632499,read,2025-04-30 17:42:49,328,Scale-free network
+User_5,https://openalex.org/W2159080219,read,2025-05-09 11:35:57,217,Multi-task learning
+User_5,https://openalex.org/W2183341477,read,2025-05-13 21:55:17,376,Fusiform gyrus
+User_5,https://openalex.org/W2096420865,click,2025-05-18 04:34:33,0,Reagent
+User_5,https://openalex.org/W2148143831,read,2025-05-17 02:37:18,55,Energy conversion efficiency
+User_5,https://openalex.org/W3096831136,cite,2025-05-03 07:14:27,0,Chemical Reactions and Isotopes
+User_5,https://openalex.org/W2164598857,read,2025-05-09 14:56:01,288,Detection theory
+User_5,https://openalex.org/W260994251,read,2025-05-26 10:04:57,504,Voronoi diagram
+User_5,https://openalex.org/W2009435671,read,2025-05-24 05:31:34,89,Binomial distribution
+User_5,https://openalex.org/W2160449301,read,2025-05-22 10:39:14,524,Political philosophy
+User_5,https://openalex.org/W1985749074,read,2025-04-29 11:21:11,579,Contig
+User_5,https://openalex.org/W2020999234,read,2025-05-02 15:37:09,568,Mathematical theory
+User_5,https://openalex.org/W3150248096,click,2025-05-10 02:07:21,0,Protocol stack
+User_5,https://openalex.org/W2999905431,read,2025-05-02 09:07:56,413,Software deployment
+User_5,https://openalex.org/W2963470893,read,2025-05-14 14:39:54,120,Insurance and Financial Risk Management
+User_5,https://openalex.org/W2150104072,read,2025-05-15 10:22:41,189,Human science
+User_5,https://openalex.org/W2069736034,read,2025-05-27 13:36:30,248,Video Coding and Compression Technologies
+User_5,https://openalex.org/W2091579301,click,2025-05-16 04:27:26,0,Energy storage
+User_5,https://openalex.org/W1969761972,read,2025-05-27 22:14:33,126,UniGene
+User_5,https://openalex.org/W2122825543,read,2025-05-28 03:48:03,301,Estuary
+User_5,https://openalex.org/W1660390307,read,2025-05-22 04:29:51,378,Growth hormone
+User_5,https://openalex.org/W2004778468,read,2025-05-15 00:43:09,255,Substrate (aquarium)
+User_5,https://openalex.org/W2109363337,click,2025-05-11 05:10:30,0,Apprenticeship
+User_5,https://openalex.org/W2031611770,read,2025-05-20 02:27:01,119,Cohen's kappa
+User_5,https://openalex.org/W2118258530,cite,2025-05-02 20:13:42,0,Markov chain Monte Carlo
+User_5,https://openalex.org/W1489838709,read,2025-04-30 06:28:25,143,Radical
+User_5,https://openalex.org/W4251751280,cite,2025-05-04 11:43:44,0,Boltzmann machine
+User_5,https://openalex.org/W2008854521,cite,2025-05-01 14:04:53,0,Latent semantic analysis
+User_6,https://openalex.org/W391578156,read,2025-05-20 15:33:17,307,clone (Java method)
+User_6,https://openalex.org/W2097360283,click,2025-05-20 02:38:09,0,Herd
+User_6,https://openalex.org/W2063978378,cite,2025-05-28 01:58:55,0,Hartree–Fock method
+User_6,https://openalex.org/W2950577311,cite,2025-05-24 16:22:13,0,Asymmetry
+User_6,https://openalex.org/W2108921801,read,2025-05-22 04:48:56,442,Conductor
+User_6,https://openalex.org/W2083449279,cite,2025-05-11 14:59:47,0,Anaerobic glycolysis
+User_6,https://openalex.org/W2120611093,read,2025-05-19 06:23:31,178,Classics
+User_6,https://openalex.org/W2125389028,read,2025-04-29 16:58:42,533,Psychosomatic Disorders and Their Treatments
+User_6,https://openalex.org/W1503398984,read,2025-05-09 18:40:11,135,Mobile robot
+User_6,https://openalex.org/W2017108196,click,2025-05-24 16:18:32,0,Hyperparameter
+User_6,https://openalex.org/W1489838709,read,2025-05-12 11:36:17,102,Carbide
+User_6,https://openalex.org/W3023540311,click,2025-05-12 10:08:48,0,Biological database
+User_6,https://openalex.org/W2085261163,read,2025-05-16 06:14:49,573,Spacecraft
+User_6,https://openalex.org/W2019413183,click,2025-05-03 05:48:03,0,3D single-object recognition
+User_6,https://openalex.org/W2138207763,cite,2025-05-10 00:48:51,0,Open-channel flow
+User_6,https://openalex.org/W2158714788,read,2025-04-29 12:58:46,328,Camera auto-calibration
+User_6,https://openalex.org/W4300402905,read,2025-05-08 00:01:11,329,Anomalous scattering
+User_6,https://openalex.org/W2117228865,click,2025-05-06 08:19:27,0,Profit (economics)
+User_6,https://openalex.org/W2028302194,read,2025-05-22 10:36:01,485,Agency (philosophy)
+User_6,https://openalex.org/W4292779060,read,2025-05-20 23:08:31,485,Counterintuitive
+User_6,https://openalex.org/W2152195021,read,2025-05-11 15:23:44,419,Competitive equilibrium
+User_6,https://openalex.org/W2105846236,cite,2025-05-02 05:40:15,0,Spectroscopy
+User_6,https://openalex.org/W2034139177,click,2025-05-28 13:47:32,0,Rprop
+User_6,https://openalex.org/W2130362098,cite,2025-05-16 13:25:55,0,Antioxidant Activity and Oxidative Stress
+User_6,https://openalex.org/W3118608800,click,2025-05-02 21:31:32,0,Strengths and weaknesses
+User_6,https://openalex.org/W2108795964,click,2025-05-14 11:01:33,0,Protein tag
+User_6,https://openalex.org/W1649645444,read,2025-05-21 19:01:16,184,Evaluation of Teaching Practices
+User_6,https://openalex.org/W4294541781,cite,2025-05-10 06:02:55,0,Improvisation
+User_6,https://openalex.org/W4213009331,click,2025-04-30 01:38:56,0,Superposition principle
+User_6,https://openalex.org/W2103546861,read,2025-05-16 23:51:04,64,Silver bullet
+User_6,https://openalex.org/W2125838338,click,2025-05-26 10:43:16,0,Academic achievement
+User_6,https://openalex.org/W2964350391,read,2025-05-25 15:55:33,76,Visual Attention and Saliency Detection
+User_7,https://openalex.org/W2949117887,read,2025-05-12 10:36:33,510,Approximate entropy
+User_7,https://openalex.org/W2054141820,read,2025-05-27 21:45:29,493,Mesoporous Materials and Catalysis
+User_7,https://openalex.org/W2067495470,click,2025-05-18 03:12:25,0,Phospholipid
+User_7,https://openalex.org/W2044465660,read,2025-05-13 06:19:51,106,Universal grammar
+User_7,https://openalex.org/W2950577311,read,2025-05-06 08:50:12,349,Greedy algorithm
+User_7,https://openalex.org/W2147152072,read,2025-05-09 19:00:35,252,Virtual screening
+User_7,https://openalex.org/W4295312788,read,2025-04-30 17:32:33,187,Computer graphics (images)
+User_7,https://openalex.org/W2124386111,click,2025-05-03 22:38:38,0,Network formation
+User_7,https://openalex.org/W1487127700,click,2025-05-12 10:42:58,0,Post-quantum cryptography
+User_7,https://openalex.org/W2004444667,read,2025-05-07 15:42:02,521,Tetrahedron
+User_7,https://openalex.org/W1576818901,click,2025-05-24 10:10:28,0,Hash chain
+User_7,https://openalex.org/W2135046866,read,2025-04-29 05:34:00,314,Umbilical vein
+User_7,https://openalex.org/W2250539671,click,2025-05-08 00:41:11,0,Catalytic Cross-Coupling Reactions
+User_7,https://openalex.org/W2963341956,click,2025-04-30 01:11:31,0,Conjugate residual method
+User_7,https://openalex.org/W2560023338,read,2025-05-24 04:24:12,382,Hubble's law
+User_7,https://openalex.org/W1849190772,click,2025-05-13 05:19:43,0,2D Materials and Applications
+User_7,https://openalex.org/W950821216,click,2025-05-06 13:25:01,0,Video quality
+User_7,https://openalex.org/W2053186076,read,2025-05-06 02:11:17,288,Nervous system network models
+User_7,https://openalex.org/W1992419399,click,2025-05-17 05:56:42,0,Numéraire
+User_7,https://openalex.org/W2124776405,read,2025-05-25 09:19:51,524,Molecular physics
+User_7,https://openalex.org/W3015634246,cite,2025-05-18 14:26:36,0,Open-channel flow
+User_8,https://openalex.org/W2157331557,click,2025-05-28 01:15:49,0,Error Correcting Code Techniques
+User_8,https://openalex.org/W1660390307,read,2025-04-30 12:06:55,491,De Bruijn sequence
+User_8,https://openalex.org/W4213009331,click,2025-05-10 12:48:20,0,Convex optimization
+User_8,https://openalex.org/W2083449279,read,2025-05-27 04:06:09,599,Consensus
+User_8,https://openalex.org/W2173213060,read,2025-05-26 01:04:40,365,Neurology and Historical Studies
+User_8,https://openalex.org/W2015292449,click,2025-05-04 12:35:11,0,Generalized suffix tree
+User_8,https://openalex.org/W2340897893,click,2025-05-01 17:57:35,0,Spatial analysis
+User_8,https://openalex.org/W1970442252,read,2025-05-23 23:42:16,114,OS X
+User_8,https://openalex.org/W2020541351,cite,2025-05-06 23:02:21,0,Infrared spectroscopy
+User_8,https://openalex.org/W2103546861,read,2025-05-10 23:46:04,131,Oxidative phosphorylation
+User_8,https://openalex.org/W2120772351,click,2025-05-03 15:42:02,0,Short-time Fourier transform
+User_8,https://openalex.org/W2138621811,click,2025-05-11 14:17:23,0,Sustainability and Ecological Systems Analysis
+User_8,https://openalex.org/W2041282815,click,2025-04-29 21:00:35,0,Software Testing and Debugging Techniques
+User_8,https://openalex.org/W1832693441,click,2025-05-22 05:49:58,0,Workplace Health and Well-being
+User_8,https://openalex.org/W2151554678,read,2025-04-29 12:01:42,155,Quantum anomalous Hall effect
+User_8,https://openalex.org/W1554944419,read,2025-05-16 23:23:22,599,Marketing research
+User_8,https://openalex.org/W2165698076,read,2025-05-21 02:16:25,526,Elegance
+User_8,https://openalex.org/W2950577311,read,2025-05-25 10:22:39,334,Phase-change materials and chalcogenides
+User_8,https://openalex.org/W2108598243,click,2025-05-07 07:00:28,0,Institutional theory
+User_8,https://openalex.org/W2963150697,read,2025-05-14 18:52:53,322,Proportional hazards model
+User_8,https://openalex.org/W2138451337,read,2025-05-15 18:11:33,326,Chemistry
+User_8,https://openalex.org/W2725897987,click,2025-05-10 21:10:28,0,X-ray Diffraction in Crystallography
+User_8,https://openalex.org/W2164599981,read,2025-05-08 11:51:32,238,Phosphor
+User_8,https://openalex.org/W1489838709,click,2025-05-26 12:20:47,0,Magnetic field
+User_8,https://openalex.org/W2296616510,read,2025-05-12 13:13:38,172,Real-Time Systems Scheduling
+User_8,https://openalex.org/W2122825543,read,2025-05-27 14:27:37,578,Intermolecular force
+User_8,https://openalex.org/W2044465660,read,2025-05-20 22:00:45,576,Lamellipodium
+User_8,https://openalex.org/W2295107390,click,2025-05-02 01:53:55,0,Image processing
+User_8,https://openalex.org/W1522048223,read,2025-05-25 11:45:29,346,K-SVD
+User_8,https://openalex.org/W2168696662,read,2025-05-08 08:17:26,569,Markov model
+User_8,https://openalex.org/W1979423827,click,2025-04-30 06:15:43,0,Control theory (sociology)
+User_8,https://openalex.org/W1581387623,read,2025-05-16 19:36:50,403,Cartography
+User_8,https://openalex.org/W2004444667,click,2025-05-14 23:35:33,0,SAGE
+User_8,https://openalex.org/W2004548026,click,2025-05-19 22:08:52,0,Electrical engineering
+User_9,https://openalex.org/W1969483458,read,2025-05-25 18:52:30,301,Conceptual model
+User_9,https://openalex.org/W2041404167,read,2025-05-06 00:56:56,573,Component-based software engineering
+User_9,https://openalex.org/W2161444534,cite,2025-05-03 12:51:38,0,Disaster Management and Resilience
+User_9,https://openalex.org/W4300402905,read,2025-05-21 13:35:21,42,Power Systems Fault Detection
+User_9,https://openalex.org/W1614298861,read,2025-05-10 08:09:20,39,Chemistry and Chemical Engineering
+User_9,https://openalex.org/W1840218356,click,2025-05-02 21:07:22,0,Cross-sectional study
+User_9,https://openalex.org/W2990138404,read,2025-05-16 04:08:49,584,Ethnography
+User_9,https://openalex.org/W2138621811,read,2025-05-14 01:12:36,207,Vignette
+User_9,https://openalex.org/W2169678694,read,2025-05-01 09:17:08,552,Medical education
+User_9,https://openalex.org/W2160449301,read,2025-05-15 21:44:16,170,Quantitative analysis (chemistry)
+User_9,https://openalex.org/W1533179050,read,2025-05-28 15:18:31,191,Uniform consensus
+User_9,https://openalex.org/W2098126593,read,2025-05-07 10:13:47,597,Cytotoxicity
+User_9,https://openalex.org/W1660390307,click,2025-04-30 12:18:42,0,Modularity (biology)
+User_9,https://openalex.org/W2954996726,click,2025-05-11 08:17:38,0,Electric dipole transition
+User_9,https://openalex.org/W2141088880,read,2025-05-23 19:29:10,397,Mann–Whitney U test
+User_9,https://openalex.org/W2963341956,read,2025-05-24 11:00:58,394,3D Shape Modeling and Analysis
+User_9,https://openalex.org/W2963881378,read,2025-05-18 18:27:28,509,Linear map
+User_9,https://openalex.org/W2125055259,read,2025-05-27 11:41:45,194,Telephone interview
+User_9,https://openalex.org/W2988934653,click,2025-04-30 06:46:01,0,Stimulation
+User_9,https://openalex.org/W2126105956,read,2025-05-08 20:24:36,511,Solid-phase synthesis
+User_9,https://openalex.org/W1913957972,click,2025-05-13 14:25:24,0,Architecture
+User_9,https://openalex.org/W2130362098,read,2025-05-20 16:39:01,487,Negotiation
+User_9,https://openalex.org/W2115217290,cite,2025-05-20 19:08:40,0,Curie
+User_9,https://openalex.org/W2549139847,read,2025-05-19 15:15:53,199,Musical
+User_9,https://openalex.org/W1554663460,read,2025-05-15 18:36:55,169,Collinearity
+User_9,https://openalex.org/W2151936673,read,2025-05-23 15:35:42,464,Underpinning
+User_9,https://openalex.org/W2963341956,read,2025-05-22 09:09:30,389,Cross-platform
+User_9,https://openalex.org/W2963470893,read,2025-05-09 13:32:27,291,Optimization problem
+User_9,https://openalex.org/W2101105183,click,2025-05-19 13:51:28,0,Video Surveillance and Tracking Methods
+User_9,https://openalex.org/W2124351063,read,2025-05-05 02:35:32,431,Coco
+User_9,https://openalex.org/W2160815625,read,2025-05-19 13:08:30,327,General linear model
+User_10,https://openalex.org/W2781525129,read,2025-04-30 08:26:57,243,Sedimentation
+User_10,https://openalex.org/W2169417293,click,2025-05-22 13:58:51,0,Cronbach's alpha
+User_10,https://openalex.org/W1981368803,read,2025-05-02 18:23:41,185,Biomarker
+User_10,https://openalex.org/W2009674410,click,2025-05-03 04:02:50,0,Object-oriented programming
+User_10,https://openalex.org/W1673310716,click,2025-05-18 11:36:48,0,Cultural Differences and Values
+User_10,https://openalex.org/W1855283887,cite,2025-05-25 18:11:12,0,Loop quantum gravity
+User_10,https://openalex.org/W1990748933,read,2025-05-10 00:52:57,285,Precession
+User_10,https://openalex.org/W2001141328,click,2025-05-17 03:25:59,0,Soil classification
+User_10,https://openalex.org/W2133674686,read,2025-04-30 09:51:54,520,GenBank
+User_10,https://openalex.org/W2115888213,read,2025-05-06 12:44:37,325,Trimming
+User_10,https://openalex.org/W2043867338,read,2025-05-16 18:11:50,544,Virulence
+User_10,https://openalex.org/W2900569176,read,2025-05-18 01:43:20,229,Viral Infectious Diseases and Gene Expression in Insects
+User_10,https://openalex.org/W1967974729,read,2025-05-09 22:17:07,543,Turn-taking
+User_10,https://openalex.org/W4248175462,click,2025-05-26 16:43:41,0,Coupling constant
+User_10,https://openalex.org/W2951912016,read,2025-05-02 12:30:27,136,Market risk
+User_10,https://openalex.org/W4295312788,read,2025-05-08 08:28:56,342,Tying
+User_10,https://openalex.org/W2152885278,read,2025-05-28 17:18:46,526,Boron and Carbon Nanomaterials Research
+User_11,https://openalex.org/W2412782625,read,2025-05-05 20:21:15,268,Urology
+User_11,https://openalex.org/W2120772351,click,2025-05-20 13:09:09,0,Neural coding
+User_11,https://openalex.org/W1487127700,read,2025-05-05 04:07:24,300,Phase space
+User_11,https://openalex.org/W3023540311,click,2025-05-19 11:47:01,0,Undo
+User_11,https://openalex.org/W2001641653,click,2025-05-26 17:30:04,0,Predictability
+User_11,https://openalex.org/W2549139847,click,2025-05-28 08:25:22,0,Reliability and Agreement in Measurement
+User_11,https://openalex.org/W1574901103,read,2025-05-06 18:50:05,330,Kidney disease
+User_11,https://openalex.org/W2024966118,read,2025-05-16 06:09:56,410,Terminal (telecommunication)
+User_11,https://openalex.org/W1990748933,click,2025-05-13 08:39:33,0,Critical appraisal
+User_11,https://openalex.org/W2164154943,read,2025-05-18 22:58:29,229,Tree of life (biology)
+User_11,https://openalex.org/W2067191022,read,2025-05-13 19:00:58,79,Alignment-free sequence analysis
+User_11,https://openalex.org/W2116649573,read,2025-05-05 09:06:19,369,Binary Golay code
+User_11,https://openalex.org/W2015292449,read,2025-05-23 20:37:37,237,Hindsight bias
+User_11,https://openalex.org/W2612166593,click,2025-05-17 16:01:32,0,Process ontology
+User_11,https://openalex.org/W2041280856,click,2025-05-23 18:15:57,0,Albumin
+User_11,https://openalex.org/W2963037989,read,2025-05-25 01:05:06,216,Topology Optimization in Engineering
+User_11,https://openalex.org/W2152195021,read,2025-05-24 19:35:43,221,Neighbourhood (mathematics)
+User_11,https://openalex.org/W2146396346,read,2025-05-10 16:11:43,59,Risk assessment
+User_11,https://openalex.org/W2168696662,click,2025-05-13 05:43:50,0,Art history
+User_11,https://openalex.org/W2160815625,cite,2025-05-11 01:06:04,0,Count data
+User_11,https://openalex.org/W1522048223,cite,2025-04-30 23:05:04,0,Porting
+User_11,https://openalex.org/W1963957860,read,2025-05-16 16:11:01,237,Scheduling and Optimization Algorithms
+User_11,https://openalex.org/W2038721957,click,2025-04-29 07:50:14,0,Genotype
+User_11,https://openalex.org/W2157331557,read,2025-05-04 12:30:35,271,Contrast (vision)
+User_11,https://openalex.org/W3017143921,click,2025-05-15 02:47:18,0,Technology integration
+User_11,https://openalex.org/W1665214252,read,2025-05-12 19:42:53,120,Square pyramidal molecular geometry
+User_11,https://openalex.org/W3015634246,click,2025-05-03 08:53:55,0,Thin-Film Transistor Technologies
+User_11,https://openalex.org/W2028056984,read,2025-05-17 19:05:54,460,Encryption
+User_11,https://openalex.org/W1969761972,cite,2025-05-18 01:33:37,0,Petri net
+User_11,https://openalex.org/W1924770834,click,2025-05-26 12:50:47,0,Impact of AI and Big Data on Business and Society
+User_11,https://openalex.org/W2131681506,read,2025-05-06 20:22:24,590,Antibody
+User_12,https://openalex.org/W2004778468,click,2025-05-25 15:57:41,0,Health informatics
+User_12,https://openalex.org/W2129925362,read,2025-05-08 00:43:49,139,Emotion work
+User_12,https://openalex.org/W2062024414,read,2025-04-29 11:42:31,436,Fatty Acid Research and Health
+User_12,https://openalex.org/W2105934661,click,2025-05-24 06:19:11,0,Thermal and Kinetic Analysis
+User_12,https://openalex.org/W4248872320,read,2025-05-25 18:40:01,277,Constructivist grounded theory
+User_12,https://openalex.org/W1554663460,read,2025-04-30 01:38:20,214,Interference (communication)
+User_12,https://openalex.org/W2081155210,read,2025-05-28 22:08:30,30,Vehicle Routing Optimization Methods
+User_12,https://openalex.org/W1533179050,cite,2025-05-04 09:13:38,0,Energy storage
+User_12,https://openalex.org/W2151554678,read,2025-05-13 23:37:22,207,Ellipsoid
+User_12,https://openalex.org/W2250539671,read,2025-05-15 10:52:51,271,IDEF5
+User_12,https://openalex.org/W2513506562,read,2025-05-02 08:29:11,309,Tolerability
+User_12,https://openalex.org/W2115217290,read,2025-05-04 11:11:04,401,Suite
+User_12,https://openalex.org/W2404280981,read,2025-05-19 09:47:30,362,Fieldnotes
+User_12,https://openalex.org/W2159267296,read,2025-05-10 18:57:28,197,Crystallography
+User_12,https://openalex.org/W1663973292,read,2025-05-18 19:33:07,384,Ferroptosis and cancer prognosis
+User_12,https://openalex.org/W1990748933,read,2025-05-21 02:47:59,501,Computer vision
+User_12,https://openalex.org/W2063978378,read,2025-05-22 23:29:02,334,Free surface
+User_12,https://openalex.org/W2128272608,read,2025-05-24 15:44:54,434,Biorepository
+User_12,https://openalex.org/W3096831136,read,2025-05-17 19:10:23,266,Polarity (international relations)
+User_12,https://openalex.org/W1985749074,click,2025-05-03 06:34:17,0,Partial differential equation
+User_12,https://openalex.org/W4294170691,cite,2025-05-01 06:08:58,0,Sense of agency
+User_12,https://openalex.org/W4293584584,click,2025-05-01 14:34:12,0,Cardiac Ischemia and Reperfusion
+User_13,https://openalex.org/W2150066425,cite,2025-05-17 22:22:29,0,Muscle Physiology and Disorders
+User_13,https://openalex.org/W2147880316,read,2025-05-25 03:40:23,331,Boundary (topology)
+User_13,https://openalex.org/W2100556411,read,2025-05-05 02:37:32,166,Monogastric
+User_13,https://openalex.org/W2141052558,read,2025-05-05 16:38:35,528,Disruptive innovation
+User_13,https://openalex.org/W2090330784,read,2025-05-28 15:14:23,592,Strict-feedback form
+User_13,https://openalex.org/W1515810707,read,2025-05-24 05:12:09,461,Participant observation
+User_13,https://openalex.org/W2125055259,click,2025-05-01 10:09:43,0,Lexicography and Language Studies
+User_13,https://openalex.org/W1924770834,read,2025-05-05 10:41:54,40,"Multiculturalism, Politics, Migration, Gender"
+User_13,https://openalex.org/W2156267802,read,2025-05-17 08:02:45,261,Barcode
+User_13,https://openalex.org/W1746819321,read,2025-05-19 20:21:19,423,Medical physics
+User_13,https://openalex.org/W2395611524,click,2025-04-30 10:21:02,0,Virus
+User_13,https://openalex.org/W2296616510,read,2025-05-23 04:55:43,73,Thread (computing)
+User_13,https://openalex.org/W2513506562,read,2025-05-05 22:47:25,510,Drug Solubulity and Delivery Systems
+User_13,https://openalex.org/W2151554678,read,2025-05-01 04:34:37,438,Cartesian tensor
+User_13,https://openalex.org/W4251751280,click,2025-05-10 07:56:49,0,Radar imaging
+User_13,https://openalex.org/W2008854521,read,2025-05-19 20:34:47,428,Naturalism
+User_13,https://openalex.org/W1565746575,read,2025-05-11 13:45:19,280,Mathematical Analysis and Transform Methods
+User_13,https://openalex.org/W3177828909,read,2025-05-04 20:30:27,503,Generative adversarial network
+User_13,https://openalex.org/W2950504429,read,2025-05-23 01:04:26,498,Solid tumor
+User_13,https://openalex.org/W2117726420,click,2025-05-22 12:30:59,0,Aerospace engineering
+User_13,https://openalex.org/W2041280856,click,2025-05-04 12:57:10,0,Addictive behavior
+User_13,https://openalex.org/W2108598243,read,2025-05-12 03:37:40,488,Quantum mechanics
+User_13,https://openalex.org/W2006617902,click,2025-04-29 18:07:41,0,Importance sampling
+User_13,https://openalex.org/W2117726420,read,2025-05-21 23:50:29,221,Flicker noise
+User_13,https://openalex.org/W2006617902,cite,2025-05-02 04:26:08,0,Chronic Kidney Disease and Diabetes
+User_13,https://openalex.org/W2158714788,read,2025-05-22 14:09:16,431,Black hole (networking)
+User_13,https://openalex.org/W2151693816,read,2025-05-26 22:19:12,71,Bacterial genome size
+User_13,https://openalex.org/W2148534890,read,2025-05-15 08:57:46,68,Oceanography
+User_13,https://openalex.org/W2725897987,click,2025-05-24 12:14:41,0,Classification scheme
+User_13,https://openalex.org/W2159080219,read,2025-05-26 19:44:42,508,Regression diagnostic
+User_13,https://openalex.org/W2129812935,read,2025-05-15 05:45:38,110,Cloud Computing and Resource Management
+User_13,https://openalex.org/W2148606196,read,2025-05-25 09:50:59,136,Base sequence
+User_13,https://openalex.org/W2124776405,read,2025-05-16 23:03:05,578,Health care
+User_13,https://openalex.org/W2067404301,cite,2025-05-09 18:42:01,0,Non-monotonic logic
+User_13,https://openalex.org/W1574901103,click,2025-05-22 13:08:32,0,Stateless protocol
+User_13,https://openalex.org/W2142238829,click,2025-05-03 01:54:59,0,Conformational isomerism
+User_13,https://openalex.org/W1647572132,cite,2025-04-30 19:57:06,0,Earth science
+User_14,https://openalex.org/W3123035919,click,2025-05-08 03:36:39,0,Sorting
+User_14,https://openalex.org/W2105846236,read,2025-05-08 09:15:16,203,Nominal level
+User_14,https://openalex.org/W2079325629,read,2025-05-23 11:10:37,321,Design pattern
+User_14,https://openalex.org/W2964015378,read,2025-05-26 08:21:57,485,Sustainable Development and Environmental Policy
+User_14,https://openalex.org/W2905811773,click,2025-05-27 23:28:27,0,Archaeology
+User_14,https://openalex.org/W2083449279,read,2025-05-22 13:48:24,320,Electron density
+User_14,https://openalex.org/W2296616510,read,2025-05-12 05:51:23,36,Mesenchymal stem cell
+User_14,https://openalex.org/W2570343428,read,2025-05-22 19:02:25,190,Autowave
+User_14,https://openalex.org/W3015634246,click,2025-05-21 02:46:51,0,Trend analysis
+User_14,https://openalex.org/W1990748933,read,2025-05-08 23:27:09,465,Deep learning
+User_14,https://openalex.org/W2063978378,click,2025-05-24 07:21:05,0,Port (circuit theory)
+User_14,https://openalex.org/W1554663460,read,2025-05-13 10:45:07,338,Laplacian matrix
+User_14,https://openalex.org/W2041280856,click,2025-05-08 07:15:42,0,Genetic architecture
+User_14,https://openalex.org/W2148694408,click,2025-05-01 05:49:20,0,Architecture
+User_14,https://openalex.org/W2015292449,read,2025-05-25 09:26:29,268,Port (circuit theory)
+User_14,https://openalex.org/W3094502228,click,2025-05-26 13:25:24,0,Fuzzy classification
+User_14,https://openalex.org/W2963037989,click,2025-04-30 18:39:05,0,Fuzzy logic
+User_14,https://openalex.org/W1746819321,click,2025-05-10 22:13:52,0,Encoder
+User_14,https://openalex.org/W2156125289,read,2025-05-13 17:22:46,478,General theory
+User_14,https://openalex.org/W2138451337,read,2025-05-08 15:30:04,453,Engineering physics
+User_14,https://openalex.org/W2067495470,read,2025-05-11 19:27:33,312,Hippocampal formation
+User_14,https://openalex.org/W2160815625,click,2025-05-01 15:25:23,0,Distributed Control Multi-Agent Systems
+User_14,https://openalex.org/W2148143831,read,2025-05-07 09:28:03,133,Thematic map
+User_14,https://openalex.org/W2120772351,read,2025-05-02 03:58:53,494,Hermeneutics and Narrative Identity
+User_14,https://openalex.org/W2148603752,read,2025-05-03 19:52:16,598,Black hole (networking)
+User_14,https://openalex.org/W2096093282,read,2025-05-03 15:09:01,354,Free surface
+User_14,https://openalex.org/W2038981426,read,2025-05-16 14:12:07,135,Dominance (genetics)
+User_14,https://openalex.org/W1924770834,cite,2025-05-12 22:06:01,0,Saliency map
+User_14,https://openalex.org/W2950504429,read,2025-04-29 01:06:14,245,Environmentalism
+User_14,https://openalex.org/W2963150697,click,2025-05-12 08:06:24,0,Elevation (ballistics)
+User_14,https://openalex.org/W4211049957,read,2025-05-28 01:05:59,232,Advanced Wireless Communication Technologies
+User_15,https://openalex.org/W2954996726,read,2025-04-30 08:24:31,75,Advanced Chemical Sensor Technologies
+User_15,https://openalex.org/W2156267802,read,2025-05-05 13:06:20,432,Correspondence analysis
+User_15,https://openalex.org/W2963881378,read,2025-05-02 11:42:45,68,Symmetry (geometry)
+User_15,https://openalex.org/W2163922914,click,2025-05-22 00:41:47,0,Construction Project Management and Performance
+User_15,https://openalex.org/W2148606196,click,2025-05-16 12:27:54,0,Similarity (geometry)
+User_15,https://openalex.org/W2067495470,click,2025-05-04 21:56:23,0,Climate Change Policy and Economics
+User_15,https://openalex.org/W2624262714,read,2025-05-11 23:39:19,212,Identity (music)
+User_15,https://openalex.org/W2963073614,click,2025-05-11 01:35:50,0,RNA
+User_15,https://openalex.org/W2949117887,read,2025-04-29 03:10:25,450,Data Visualization and Analytics
+User_15,https://openalex.org/W4211049957,read,2025-05-22 22:12:52,245,Latent semantic analysis
+User_15,https://openalex.org/W2160547390,click,2025-05-11 11:46:43,0,Graph Theory and Algorithms
+User_15,https://openalex.org/W2999905431,cite,2025-05-06 06:40:27,0,Phagolysosome
+User_15,https://openalex.org/W2145538332,read,2025-05-07 09:16:52,170,Abiotic component
+User_15,https://openalex.org/W1730782591,click,2025-05-06 11:53:23,0,Glutamate decarboxylase
+User_15,https://openalex.org/W2412782625,click,2025-05-22 12:36:17,0,Virtual screening
+User_15,https://openalex.org/W1554663460,read,2025-05-07 04:02:56,150,Checklist
+User_15,https://openalex.org/W2150104072,click,2025-05-21 11:41:23,0,Image compression
+User_15,https://openalex.org/W2146396346,read,2025-05-05 10:39:36,101,Smoothness
+User_15,https://openalex.org/W4294170691,cite,2025-05-08 17:05:08,0,Heme Oxygenase-1 and Carbon Monoxide
+User_15,https://openalex.org/W2089402107,read,2025-05-08 19:13:55,449,Life satisfaction
+User_15,https://openalex.org/W2962835968,read,2025-05-17 07:11:03,36,Oxidative Organic Chemistry Reactions
+User_15,https://openalex.org/W2340897893,read,2025-04-29 19:01:37,118,Aquaculture disease management and microbiota
+User_15,https://openalex.org/W2150238850,read,2025-05-08 20:43:34,234,Radio resource management
+User_15,https://openalex.org/W2132454116,read,2025-05-27 08:59:11,105,Metformin
+User_15,https://openalex.org/W3164692211,click,2025-05-15 10:56:01,0,Nonprobability sampling
+User_15,https://openalex.org/W2108598243,read,2025-05-03 11:17:50,220,Advanced Polymer Synthesis and Characterization
+User_15,https://openalex.org/W2150926065,read,2025-05-24 00:13:46,409,Geometry
+User_16,https://openalex.org/W3015634246,read,2025-05-11 23:32:25,397,Eddy
+User_16,https://openalex.org/W3150248096,read,2025-05-14 05:39:55,312,Chemical Synthesis and Characterization
+User_16,https://openalex.org/W1489838709,click,2025-05-24 20:10:54,0,Dynamic pricing
+User_16,https://openalex.org/W1554663460,read,2025-05-13 18:14:40,55,Quantum computer
+User_16,https://openalex.org/W3035524453,click,2025-05-10 10:39:47,0,Acoustic model
+User_16,https://openalex.org/W2108795964,click,2025-05-24 11:20:23,0,Orthographic projection
+User_16,https://openalex.org/W1990170643,click,2025-05-13 16:56:29,0,Coronavirus
+User_16,https://openalex.org/W2129812935,click,2025-05-16 14:12:33,0,Expected utility hypothesis
+User_16,https://openalex.org/W2153635508,cite,2025-05-02 20:38:02,0,Angiogenesis
+User_16,https://openalex.org/W2150238850,click,2025-05-10 04:09:55,0,Exfoliation joint
+User_16,https://openalex.org/W4245961435,click,2025-04-30 20:03:38,0,Digital Marketing and Social Media
+User_16,https://openalex.org/W2079325629,read,2025-05-13 04:33:04,287,Sampling design
+User_16,https://openalex.org/W2412782625,click,2025-05-02 06:14:17,0,Building materials and conservation
+User_16,https://openalex.org/W2963446712,click,2025-05-24 08:24:51,0,Behavior change
+User_16,https://openalex.org/W2033819227,read,2025-05-09 16:07:49,200,Explained variation
+User_16,https://openalex.org/W2999905431,read,2025-05-01 05:16:45,373,Educational technology
+User_16,https://openalex.org/W2250539671,click,2025-05-03 08:26:21,0,Disruptive technology
+User_16,https://openalex.org/W2133665775,read,2025-05-18 12:02:56,147,Restriction map
+User_16,https://openalex.org/W2106096361,read,2025-05-01 23:55:45,38,Canonical analysis
+User_16,https://openalex.org/W2109255472,click,2025-05-23 09:08:14,0,Reciprocal altruism
+User_16,https://openalex.org/W1979423827,click,2025-05-09 14:16:56,0,Genetic and phenotypic traits in livestock
+User_16,https://openalex.org/W2038721957,read,2025-05-27 09:13:45,115,Face detection
+User_16,https://openalex.org/W2513506562,cite,2025-05-04 19:53:50,0,Analog and Mixed-Signal Circuit Design
+User_16,https://openalex.org/W2059158127,read,2025-05-19 04:09:22,84,Earthquake Detection and Analysis
+User_16,https://openalex.org/W2121947440,read,2025-05-01 02:22:01,485,UniFrac
+User_16,https://openalex.org/W2159707944,click,2025-05-18 07:51:20,0,Calibration
+User_16,https://openalex.org/W2158714788,click,2025-05-23 19:32:03,0,Exfoliation joint
+User_16,https://openalex.org/W1490421035,click,2025-05-26 12:48:50,0,Deep belief network
+User_16,https://openalex.org/W2138451337,read,2025-05-02 20:12:52,353,Bluetooth and Wireless Communication Technologies
+User_16,https://openalex.org/W2962739339,read,2025-05-11 22:07:12,117,Plasma and Flow Control in Aerodynamics
+User_16,https://openalex.org/W2949117887,click,2025-05-16 02:59:24,0,Geotechnical Engineering and Soil Mechanics
+User_16,https://openalex.org/W2132984323,read,2025-05-08 18:29:20,341,Symbol (formal)
+User_16,https://openalex.org/W2896457183,read,2025-05-07 06:07:26,155,Art
+User_16,https://openalex.org/W2789843538,read,2025-05-03 04:31:03,590,Advanced Data Compression Techniques
+User_16,https://openalex.org/W2187089797,read,2025-04-29 03:14:03,31,MicroRNA in disease regulation
+User_16,https://openalex.org/W2158196600,read,2025-05-08 04:48:24,416,Iterative Methods for Nonlinear Equations
+User_16,https://openalex.org/W3035524453,cite,2025-05-27 14:03:52,0,Backpropagation
+User_16,https://openalex.org/W2156125289,click,2025-05-28 21:11:14,0,Innovative Teaching and Learning Methods
+User_16,https://openalex.org/W2019207321,read,2025-05-05 08:03:07,179,Global socioeconomic and cultural dynamics
+User_16,https://openalex.org/W2146396346,read,2025-05-09 21:00:02,261,Nanocrystalline material
+User_17,https://openalex.org/W2120611093,read,2025-05-15 09:42:49,368,Disease burden
+User_17,https://openalex.org/W2565639579,read,2025-05-03 03:33:46,34,Lamellipodium
+User_17,https://openalex.org/W2117228865,read,2025-05-01 01:26:22,232,Statement (logic)
+User_17,https://openalex.org/W2950504429,click,2025-05-18 07:44:49,0,Epoxy
+User_17,https://openalex.org/W1746819321,read,2025-04-29 11:50:37,551,Financial cryptography
+User_17,https://openalex.org/W1596515083,click,2025-05-05 11:04:54,0,Altmetrics
+User_17,https://openalex.org/W2403035479,read,2025-05-28 16:56:18,195,Macro
+User_17,https://openalex.org/W2100358124,read,2025-05-01 11:05:11,342,Exact solutions in general relativity
+User_17,https://openalex.org/W2081155210,read,2025-05-11 15:33:11,248,Optical flow
+User_17,https://openalex.org/W2250539671,click,2025-05-04 12:12:47,0,Shannon–Fano coding
+User_17,https://openalex.org/W2028056984,click,2025-05-14 12:18:21,0,Pregnancy
+User_17,https://openalex.org/W1979423827,read,2025-05-26 14:23:56,304,Academic achievement
+User_17,https://openalex.org/W3023540311,read,2025-05-26 17:01:50,371,Symbolic interactionism
+User_17,https://openalex.org/W4250955649,click,2025-05-11 21:32:04,0,NFAT
+User_17,https://openalex.org/W2963073614,click,2025-05-09 07:29:39,0,Implementation research
+User_17,https://openalex.org/W3102476541,read,2025-05-20 10:41:06,60,Gamma-ray bursts and supernovae
+User_17,https://openalex.org/W1924770834,read,2025-05-14 23:37:23,34,False positive paradox
+User_17,https://openalex.org/W3150248096,cite,2025-05-27 06:17:02,0,Exome
+User_17,https://openalex.org/W1665332082,click,2025-05-02 07:40:22,0,Radiochemistry
+User_17,https://openalex.org/W2179492332,click,2025-05-24 12:35:16,0,Asymptotic distribution
+User_17,https://openalex.org/W2296616510,click,2025-05-15 22:51:05,0,Semantics (computer science)
+User_17,https://openalex.org/W2193503481,read,2025-05-20 04:12:13,417,Dialectic
+User_17,https://openalex.org/W2165299997,click,2025-05-16 06:57:24,0,Corner detection
+User_17,https://openalex.org/W2962793481,click,2025-05-19 12:08:06,0,Microplastics
+User_17,https://openalex.org/W2143485490,read,2025-05-27 00:13:22,116,Sedimentation
+User_17,https://openalex.org/W2121647436,read,2025-05-03 02:22:12,354,Zinc sulfide
+User_17,https://openalex.org/W2045656233,read,2025-05-24 10:57:26,439,Control engineering
+User_17,https://openalex.org/W1594031697,read,2025-05-08 03:41:55,211,Graphite
+User_17,https://openalex.org/W2062663664,read,2025-05-06 21:48:24,42,Arginase
+User_17,https://openalex.org/W2071881327,read,2025-05-25 03:36:59,515,Chaos-based Image/Signal Encryption
+User_17,https://openalex.org/W2138621811,read,2025-05-15 08:03:54,552,Petabyte
+User_17,https://openalex.org/W4251751280,read,2025-05-21 05:23:38,408,Noise Effects and Management
+User_17,https://openalex.org/W1515810707,read,2025-05-14 11:58:51,126,Manifold (fluid mechanics)
+User_17,https://openalex.org/W2028231353,read,2025-04-30 19:22:22,137,Antigen
+User_17,https://openalex.org/W1821462560,read,2025-05-02 15:59:20,214,Quantum chemical
+User_17,https://openalex.org/W2161969291,click,2025-05-17 07:58:55,0,Copper-based nanomaterials and applications
+User_17,https://openalex.org/W2124386111,read,2025-04-29 23:25:23,35,Salience (neuroscience)
+User_17,https://openalex.org/W1763243278,read,2025-05-14 17:19:03,525,Obligate
+User_17,https://openalex.org/W1563088657,read,2025-05-19 14:22:16,522,Neuroinflammation and Neurodegeneration Mechanisms
+User_17,https://openalex.org/W2148694408,click,2025-05-01 13:00:07,0,Extant taxon
+User_17,https://openalex.org/W2162800060,click,2025-04-29 09:23:09,0,Mega-
+User_17,https://openalex.org/W2067722023,read,2025-05-15 23:24:01,405,Data processing
+User_17,https://openalex.org/W2140956556,read,2025-05-28 06:45:54,471,Selective adsorption
+User_17,https://openalex.org/W2101105183,read,2025-05-10 18:46:21,562,Transparency (behavior)
+User_17,https://openalex.org/W4294170691,read,2025-05-14 02:46:49,563,Performance art
+User_17,https://openalex.org/W1963957860,read,2025-05-25 03:39:18,242,Permittivity
+User_17,https://openalex.org/W4297775537,read,2025-05-15 11:43:49,595,Economic policy
+User_17,https://openalex.org/W3094502228,read,2025-05-16 07:01:32,110,Model-Driven Software Engineering Techniques
+User_17,https://openalex.org/W2015292449,read,2025-05-17 19:59:43,295,Clock synchronization
+User_18,https://openalex.org/W1832693441,read,2025-05-14 02:20:40,57,Shrinkage
+User_18,https://openalex.org/W2964350391,read,2025-05-21 12:51:15,512,Rumen
+User_18,https://openalex.org/W2157575844,click,2025-05-14 07:05:59,0,Solid-phase synthesis
+User_18,https://openalex.org/W1663973292,click,2025-05-05 06:23:37,0,Symbolic data analysis
+User_18,https://openalex.org/W2963037989,read,2025-05-26 01:55:12,243,Long-Term Effects of COVID-19
+User_18,https://openalex.org/W2145538332,read,2025-05-26 14:53:32,72,Critical appraisal
+User_18,https://openalex.org/W1832693441,read,2025-05-28 07:27:38,495,Theory of the firm
+User_18,https://openalex.org/W1522048223,read,2025-05-16 07:10:13,478,Long-term potentiation
+User_18,https://openalex.org/W2962793481,click,2025-05-27 02:02:19,0,Animal cognition
+User_18,https://openalex.org/W3104097132,cite,2025-05-20 06:36:36,0,Operating system
+User_18,https://openalex.org/W2095705004,cite,2025-05-02 14:49:33,0,Physical health
+User_18,https://openalex.org/W2953384591,click,2025-05-24 07:32:13,0,Wi-Fi
+User_18,https://openalex.org/W2001641653,read,2025-05-17 23:41:05,296,Programmed cell death
+User_18,https://openalex.org/W2928665623,read,2025-05-16 02:01:35,573,RNA Research and Splicing
+User_18,https://openalex.org/W2557283755,click,2025-05-08 03:51:30,0,Fractal
+User_18,https://openalex.org/W2067191022,read,2025-05-28 00:51:25,85,Multipotent Stem Cell
+User_18,https://openalex.org/W2133665775,click,2025-05-18 01:38:43,0,Phylogeography
+User_18,https://openalex.org/W2120611093,click,2025-05-07 10:28:43,0,Marine and coastal ecosystems
+User_18,https://openalex.org/W2560023338,click,2025-05-04 18:09:32,0,Cancer research
+User_18,https://openalex.org/W62824994,read,2025-05-24 16:44:47,82,Posterior cingulate
+User_18,https://openalex.org/W1836465849,read,2025-05-24 16:02:20,410,Multiclass classification
+User_18,https://openalex.org/W2108384452,click,2025-05-04 12:02:43,0,Data compression
+User_18,https://openalex.org/W2038981426,read,2025-05-04 18:29:53,401,Tetragonal crystal system
+User_18,https://openalex.org/W2146058063,read,2025-05-17 01:22:36,209,Safety Warnings and Signage
+User_18,https://openalex.org/W1522048223,click,2025-05-13 22:10:43,0,Linear model
+User_18,https://openalex.org/W3164692211,read,2025-05-22 21:20:14,354,Grid computing
+User_18,https://openalex.org/W1522048223,read,2025-05-07 13:57:39,257,Advanced battery technologies research
+User_18,https://openalex.org/W2570343428,read,2025-05-16 11:32:55,62,Particle physics
+User_18,https://openalex.org/W2194775991,read,2025-04-30 06:22:16,284,Deviance (statistics)
+User_18,https://openalex.org/W2087347434,click,2025-05-16 13:54:15,0,Early adopter
+User_18,https://openalex.org/W1680392829,read,2025-05-19 20:28:58,231,Grid
+User_18,https://openalex.org/W2124776405,click,2025-05-13 03:20:22,0,Dynamic Monte Carlo method
+User_18,https://openalex.org/W2167667767,click,2025-05-26 16:18:59,0,Treaty
+User_18,https://openalex.org/W2128016314,click,2025-05-06 04:58:31,0,Animal Ecology and Behavior Studies
+User_18,https://openalex.org/W2081155210,click,2025-05-14 20:02:45,0,Sequencing by hybridization
+User_18,https://openalex.org/W1996109622,cite,2025-05-09 00:40:07,0,RefSeq
+User_18,https://openalex.org/W2136922672,read,2025-05-28 13:17:12,105,Tangle
+User_18,https://openalex.org/W2154053567,click,2025-05-27 08:08:45,0,Genetic structure
+User_18,https://openalex.org/W2145023731,click,2025-05-09 08:43:50,0,Coherent risk measure
+User_18,https://openalex.org/W2149992227,read,2025-05-27 20:40:43,483,Radar imaging
+User_18,https://openalex.org/W2157331557,read,2025-05-21 02:43:35,558,Conditional variance
+User_18,https://openalex.org/W2148143831,cite,2025-04-30 22:21:16,0,Fabrication
+User_19,https://openalex.org/W2054141820,click,2025-05-17 10:52:38,0,Sample mean and sample covariance
+User_19,https://openalex.org/W2150066425,read,2025-05-25 01:26:07,600,Law
+User_19,https://openalex.org/W2963341956,read,2025-05-10 01:34:23,371,Agronomy
+User_19,https://openalex.org/W2145538332,read,2025-05-28 08:51:17,544,Semantics (computer science)
+User_19,https://openalex.org/W2159707944,read,2025-05-01 04:24:01,588,Perception
+User_19,https://openalex.org/W2015292449,click,2025-05-14 04:29:15,0,Social choice theory
+User_19,https://openalex.org/W2168356304,click,2025-05-25 03:54:51,0,Face (sociological concept)
+User_19,https://openalex.org/W2557283755,read,2025-05-16 23:46:41,584,Optimal binary search tree
+User_19,https://openalex.org/W2168696662,click,2025-05-18 06:25:47,0,Quantum Computing Algorithms and Architecture
+User_19,https://openalex.org/W391578156,click,2025-05-20 12:15:36,0,Key distribution
+User_19,https://openalex.org/W2118877769,click,2025-05-12 03:54:24,0,Social Development and Education Research
+User_19,https://openalex.org/W1665332082,read,2025-05-27 22:52:43,74,Educational and Psychological Assessments
+User_19,https://openalex.org/W2028056984,read,2025-05-18 18:07:09,106,Audio mining
+User_19,https://openalex.org/W2124351063,read,2025-05-27 11:43:52,390,Civil engineering
+User_19,https://openalex.org/W2133665775,read,2025-05-28 11:10:42,449,Machine learning
+User_19,https://openalex.org/W2146396346,read,2025-05-14 00:31:22,97,Bloom's taxonomy
+User_19,https://openalex.org/W2928665623,click,2025-05-20 10:12:38,0,Cell cycle
+User_19,https://openalex.org/W4213009331,click,2025-05-03 11:57:12,0,Pointwise
+User_19,https://openalex.org/W2049981393,click,2025-05-10 03:38:35,0,Ternary operation
+User_19,https://openalex.org/W2162437324,cite,2025-05-06 07:27:15,0,Perception
+User_19,https://openalex.org/W3104097132,read,2025-05-28 10:00:29,400,Polynomial regression
+User_19,https://openalex.org/W2117228865,cite,2025-05-17 04:24:06,0,Dopaminergic
+User_19,https://openalex.org/W3035524453,read,2025-05-10 04:32:48,464,"Trauma, Hemostasis, Coagulopathy, Resuscitation"
+User_19,https://openalex.org/W2142596760,read,2025-05-09 21:59:02,110,Theme (computing)
+User_19,https://openalex.org/W2160643434,read,2025-05-03 23:56:23,76,Grammar
+User_19,https://openalex.org/W2147800946,read,2025-05-13 00:01:46,48,Unified theory of acceptance and use of technology
+User_19,https://openalex.org/W2928665623,click,2025-05-22 18:58:46,0,Theory of change
+User_19,https://openalex.org/W2105846236,read,2025-04-29 07:21:31,110,Advanced Materials Characterization Techniques
+User_19,https://openalex.org/W2151693816,read,2025-05-15 08:15:13,485,Protein Structure and Dynamics
+User_19,https://openalex.org/W2146396346,read,2025-05-19 17:55:42,585,Graphics
+User_19,https://openalex.org/W2034139177,read,2025-05-24 16:04:06,100,Personality disorders
+User_19,https://openalex.org/W2158714788,read,2025-05-07 03:36:56,345,Fusion protein
+User_19,https://openalex.org/W2067722023,read,2025-05-11 21:56:23,438,Swarm intelligence
+User_19,https://openalex.org/W4294541781,read,2025-05-07 17:25:38,336,Discriminator
+User_19,https://openalex.org/W2999905431,read,2025-05-23 00:22:46,378,General theory
+User_19,https://openalex.org/W2187089797,cite,2025-05-15 18:35:16,0,Job Satisfaction and Organizational Behavior
+User_19,https://openalex.org/W2985849463,read,2025-05-16 10:13:33,312,Neural and Behavioral Psychology Studies
+User_19,https://openalex.org/W2009435671,read,2025-05-28 03:04:15,491,Metal-organic framework
+User_19,https://openalex.org/W2513506562,read,2025-05-19 07:49:11,452,Scale invariance
+User_19,https://openalex.org/W2068155429,click,2025-05-06 19:13:38,0,Compensation (psychology)
+User_19,https://openalex.org/W1990170643,cite,2025-05-16 23:02:13,0,Structural equation modeling
+User_19,https://openalex.org/W2152885278,cite,2025-05-09 12:35:15,0,Calibration
+User_19,https://openalex.org/W1924770834,click,2025-05-26 08:59:16,0,Alpha (finance)
+User_19,https://openalex.org/W2130942839,read,2025-05-02 22:29:00,455,Decision table
+User_19,https://openalex.org/W2143891888,read,2025-05-19 15:19:44,313,Research in Social Sciences
+User_19,https://openalex.org/W273955616,read,2025-05-27 00:05:51,377,Matching (statistics)
+User_20,https://openalex.org/W2964308564,read,2025-05-15 22:42:31,567,Online and Blended Learning
+User_20,https://openalex.org/W2152195021,click,2025-05-04 08:49:38,0,Impact of Technology on Adolescents
+User_20,https://openalex.org/W2964015378,click,2025-05-07 05:10:03,0,Radiosonde
+User_20,https://openalex.org/W2112796928,read,2025-05-28 13:21:24,496,Hybrid functional
+User_20,https://openalex.org/W2112796928,click,2025-05-26 22:05:12,0,State ownership
+User_20,https://openalex.org/W2117228865,click,2025-05-12 01:08:39,0,Color perception and design
+User_20,https://openalex.org/W2296616510,click,2025-04-29 21:21:10,0,Wavelength
+User_20,https://openalex.org/W2097117768,read,2025-05-18 16:40:23,49,Homogeneity (statistics)
+User_20,https://openalex.org/W2162800060,read,2025-05-22 02:11:47,526,Contact force
+User_20,https://openalex.org/W2954996726,click,2025-05-15 11:39:39,0,Embeddedness
+User_21,https://openalex.org/W2004548026,click,2025-05-12 04:04:03,0,Corporate Identity and Reputation
+User_21,https://openalex.org/W2493916176,read,2025-05-26 17:27:34,437,Environmental health
+User_21,https://openalex.org/W2122646361,read,2025-05-22 05:23:55,154,Disruptive technology
+User_21,https://openalex.org/W2102619694,read,2025-05-22 07:57:05,228,Graph Labeling and Dimension Problems
+User_21,https://openalex.org/W2159267296,click,2025-04-30 15:33:28,0,Quarter (Canadian coin)
+User_21,https://openalex.org/W2069736034,read,2025-05-25 02:58:13,494,Refraction
+User_21,https://openalex.org/W2618530766,read,2025-05-08 10:24:29,114,Bureaucracy
+User_21,https://openalex.org/W2110335151,read,2025-05-01 16:35:49,149,Health promotion
+User_21,https://openalex.org/W2148534890,read,2025-05-02 08:47:31,383,Invariant (physics)
+User_21,https://openalex.org/W2158266834,click,2025-05-12 20:09:28,0,Computational science
+User_21,https://openalex.org/W2295107390,read,2025-05-08 16:26:29,78,Customer Service Quality and Loyalty
+User_21,https://openalex.org/W2164599981,click,2025-05-16 08:34:59,0,Organizational Learning and Leadership
+User_21,https://openalex.org/W2163352848,read,2025-05-03 07:20:16,238,Biotin
+User_21,https://openalex.org/W2038721957,read,2025-05-11 03:11:38,352,Sugarcane Cultivation and Processing
+User_21,https://openalex.org/W1979907230,read,2025-04-29 02:56:43,470,Psychological intervention
+User_21,https://openalex.org/W2271840356,read,2025-05-27 15:08:28,218,Incentive
+User_21,https://openalex.org/W2964015378,read,2025-05-26 11:46:59,61,Fish <Actinopterygii>
+User_21,https://openalex.org/W2116649573,read,2025-05-05 18:54:40,307,Management
+User_21,https://openalex.org/W1679913846,read,2025-05-19 17:20:36,584,AdaBoost
+User_21,https://openalex.org/W2950504429,click,2025-05-09 10:35:16,0,Organization development
+User_21,https://openalex.org/W2151693816,click,2025-05-07 22:40:51,0,Constitution
+User_21,https://openalex.org/W2009435671,read,2025-05-04 09:41:14,574,Dentistry
+User_21,https://openalex.org/W2133564696,read,2025-04-30 09:47:53,245,Fluorescence
+User_21,https://openalex.org/W2118877769,click,2025-05-07 02:20:54,0,Machine Learning in Bioinformatics
+User_21,https://openalex.org/W2565639579,read,2025-04-29 05:27:18,218,OpenFlow
+User_21,https://openalex.org/W2160547390,read,2025-05-17 18:58:01,327,Statistics
+User_21,https://openalex.org/W2624262714,read,2025-05-27 01:53:15,504,Substituent
+User_21,https://openalex.org/W1536680647,click,2025-05-22 15:28:09,0,Quantum technology
+User_21,https://openalex.org/W2109364787,read,2025-05-02 08:26:34,153,Sky
+User_21,https://openalex.org/W2105934661,click,2025-05-08 04:28:23,0,Criterion validity
+User_21,https://openalex.org/W2120611093,read,2025-05-19 12:02:05,192,Central nervous system
+User_22,https://openalex.org/W2193503481,cite,2025-05-14 01:21:24,0,Scrolling
+User_22,https://openalex.org/W1679913846,read,2025-05-15 18:01:28,514,Summative assessment
+User_22,https://openalex.org/W3138516171,cite,2025-05-07 06:43:54,0,String searching algorithm
+User_22,https://openalex.org/W2156267802,read,2025-04-30 22:35:22,206,Earthquake Detection and Analysis
+User_22,https://openalex.org/W2565639579,read,2025-05-02 21:03:21,358,Link (geometry)
+User_22,https://openalex.org/W2006617902,read,2025-05-08 18:35:23,205,Psychology
+User_22,https://openalex.org/W1746819321,click,2025-05-22 15:14:52,0,Pencil (optics)
+User_22,https://openalex.org/W2159080219,read,2025-05-23 13:26:36,187,Evolution and Science Education
+User_22,https://openalex.org/W2156125289,click,2025-05-20 03:40:18,0,DNA fragmentation
+User_22,https://openalex.org/W2085261163,read,2025-05-25 18:26:54,338,Probability density function
+User_22,https://openalex.org/W2041280856,read,2025-05-01 06:09:32,417,Gaussian orbital
+User_22,https://openalex.org/W2962862931,click,2025-05-23 19:43:42,0,Pharmacogenetics and Drug Metabolism
+User_22,https://openalex.org/W2081155210,cite,2025-04-29 12:04:23,0,Spurious relationship
+User_22,https://openalex.org/W1679913846,read,2025-04-30 22:12:14,559,Bond length
+User_22,https://openalex.org/W2102619694,read,2025-05-16 15:06:26,312,Cell therapy
+User_22,https://openalex.org/W2157825442,read,2025-05-05 18:53:47,542,k-nearest neighbors algorithm
+User_22,https://openalex.org/W2125055259,read,2025-05-21 08:35:44,62,Child and Animal Learning Development
+User_22,https://openalex.org/W2124351063,click,2025-05-03 19:49:45,0,Chézy formula
+User_22,https://openalex.org/W2032558547,read,2025-05-06 01:55:29,404,Reusability
+User_22,https://openalex.org/W2133564696,cite,2025-05-22 17:36:12,0,Diatoms and Algae Research
+User_22,https://openalex.org/W3123035919,read,2025-05-21 09:10:28,288,Conservation of resources theory
+User_22,https://openalex.org/W2531409750,read,2025-05-12 00:11:32,62,Transmission (telecommunications)
+User_22,https://openalex.org/W2962835968,read,2025-05-01 14:57:07,260,CALPHAD
+User_22,https://openalex.org/W2158714788,click,2025-05-23 16:57:52,0,Reciprocity (cultural anthropology)
+User_22,https://openalex.org/W1985588649,click,2025-05-22 03:00:47,0,Property (philosophy)
+User_22,https://openalex.org/W2071881327,read,2025-05-06 09:04:25,142,Postal service
+User_22,https://openalex.org/W2041282815,read,2025-05-15 06:27:55,195,Nuclear strategy
+User_22,https://openalex.org/W2138825607,read,2025-05-24 14:24:30,433,Nickel
+User_22,https://openalex.org/W1663973292,click,2025-05-09 07:07:57,0,Antenna diversity
+User_22,https://openalex.org/W2116040950,read,2025-04-29 08:49:07,127,COVID-19 and Mental Health
+User_22,https://openalex.org/W4250955649,read,2025-05-28 03:24:14,263,Neuroendocrine regulation and behavior
+User_23,https://openalex.org/W2110065044,read,2025-04-30 18:25:23,80,Hierarchical database model
+User_23,https://openalex.org/W2229412420,click,2025-05-15 21:13:28,0,Resistor
+User_23,https://openalex.org/W2122646361,click,2025-05-02 11:40:43,0,Data extraction
+User_23,https://openalex.org/W2147880316,read,2025-05-01 15:11:42,581,Physical therapy
+User_23,https://openalex.org/W2124776405,cite,2025-04-29 01:56:23,0,Teaching method
+User_23,https://openalex.org/W1663973292,read,2025-05-27 14:24:24,220,Massive parallel sequencing
+User_23,https://openalex.org/W2155628349,click,2025-05-27 17:43:38,0,Video Surveillance and Tracking Methods
+User_23,https://openalex.org/W2099053943,read,2025-05-13 10:40:35,579,Salience (neuroscience)
+User_23,https://openalex.org/W2079325629,read,2025-05-10 04:14:40,62,Chézy formula
+User_23,https://openalex.org/W1554663460,read,2025-05-23 07:02:58,54,Systematic error
+User_23,https://openalex.org/W391578156,click,2025-04-29 18:35:56,0,Tacit collusion
+User_23,https://openalex.org/W2109364787,read,2025-05-07 21:57:22,299,Applied linguistics
+User_23,https://openalex.org/W2059158127,read,2025-05-15 03:24:01,259,Extracellular vesicles
+User_23,https://openalex.org/W2168356304,click,2025-05-01 13:52:44,0,Selenium in Biological Systems
+User_23,https://openalex.org/W1969483458,read,2025-05-10 22:41:19,398,Psychophysics
+User_23,https://openalex.org/W1880262756,read,2025-05-28 02:39:40,436,Topological quantum computer
+User_23,https://openalex.org/W2964308564,read,2025-05-08 11:20:17,71,Sleep apnea
+User_23,https://openalex.org/W2004778468,click,2025-05-27 23:07:53,0,Advanced Data Processing Techniques
+User_23,https://openalex.org/W2118258530,read,2025-05-14 06:00:50,396,"Management, Economics, and Public Policy"
+User_23,https://openalex.org/W2122825543,read,2025-04-29 13:57:25,42,Equation of state
+User_23,https://openalex.org/W2099471712,read,2025-05-06 22:41:04,162,Viral gastroenteritis research and epidemiology
+User_23,https://openalex.org/W639708223,read,2025-05-01 20:03:42,500,Speech coding
+User_23,https://openalex.org/W2067404301,click,2025-05-05 02:58:30,0,Data science
+User_23,https://openalex.org/W1840218356,read,2025-05-08 16:22:55,200,Alanine
+User_23,https://openalex.org/W2148534890,read,2025-04-29 05:08:01,354,Taxonomy (biology)
+User_23,https://openalex.org/W2157825442,read,2025-05-07 17:56:03,252,Identity (music)
+User_23,https://openalex.org/W2964308564,read,2025-05-10 23:14:17,30,Tree traversal
+User_23,https://openalex.org/W2110835349,read,2025-05-23 11:26:39,410,Picosecond
+User_23,https://openalex.org/W4245961435,read,2025-05-09 00:23:19,436,Transferability
+User_23,https://openalex.org/W639708223,read,2025-04-29 21:45:25,296,Diatom
+User_23,https://openalex.org/W2612166593,read,2025-05-27 12:07:52,245,Grid
+User_23,https://openalex.org/W2151554678,click,2025-05-19 05:33:37,0,Enzyme
+User_23,https://openalex.org/W1522048223,read,2025-05-28 05:56:42,552,Placebo
+User_23,https://openalex.org/W2126105956,click,2025-05-11 11:27:45,0,Sociobiology
+User_23,https://openalex.org/W2179492332,read,2025-05-13 18:49:05,390,Statistics
+User_23,https://openalex.org/W4248681815,read,2025-05-04 22:51:08,413,Qualitative Research Methods and Applications
+User_23,https://openalex.org/W1649645444,click,2025-05-06 11:19:16,0,Thermal conduction
+User_23,https://openalex.org/W2179492332,read,2025-05-26 10:13:51,198,Glutathione
+User_23,https://openalex.org/W2110485445,read,2025-05-23 10:44:49,159,Selection (genetic algorithm)
+User_23,https://openalex.org/W2138207763,read,2025-05-06 05:31:08,481,Subversion
+User_23,https://openalex.org/W2124386111,read,2025-05-10 02:36:23,597,Myocyte
+User_23,https://openalex.org/W2395611524,click,2025-05-16 05:18:19,0,Thresholding
+User_23,https://openalex.org/W2102619694,click,2025-05-12 00:24:33,0,Inorganic Fluorides and Related Compounds
+User_23,https://openalex.org/W2928665623,read,2025-05-08 07:57:15,218,Hilbert spectral analysis
+User_23,https://openalex.org/W2008854521,click,2025-05-06 01:32:43,0,Evolutionary computation
+User_24,https://openalex.org/W2126105956,cite,2025-05-18 08:47:15,0,Meteorology
+User_24,https://openalex.org/W2613718673,click,2025-05-04 07:25:53,0,Phenomenon
+User_24,https://openalex.org/W2133665775,click,2025-05-16 02:06:39,0,Enzyme Structure and Function
+User_24,https://openalex.org/W1533861849,click,2025-05-02 20:38:56,0,Grid
+User_24,https://openalex.org/W1924770834,click,2025-05-23 18:43:33,0,Probiotics and Fermented Foods
+User_24,https://openalex.org/W2162800060,read,2025-05-05 03:00:10,365,Physical optics
+User_24,https://openalex.org/W2124776405,click,2025-05-11 23:09:17,0,Mutation
+User_24,https://openalex.org/W2905811773,click,2025-05-03 00:17:08,0,Seriousness
+User_24,https://openalex.org/W1647572132,cite,2025-05-28 20:22:53,0,Addictive behavior
+User_24,https://openalex.org/W1963957860,click,2025-05-20 09:27:17,0,Proton
+User_24,https://openalex.org/W2129812935,read,2025-05-15 21:15:08,521,Glycolysis
+User_24,https://openalex.org/W2565639579,read,2025-05-09 19:12:47,546,Geometry
+User_24,https://openalex.org/W2155893237,read,2025-05-11 14:07:38,553,Advanced Control Systems Optimization
+User_24,https://openalex.org/W2160815625,read,2025-05-26 16:42:03,399,General linear model
+User_24,https://openalex.org/W2019207321,read,2025-04-29 14:23:08,245,Plasma lipoprotein
+User_24,https://openalex.org/W2159267296,read,2025-05-15 19:35:26,431,Section (typography)
+User_24,https://openalex.org/W2965373594,read,2025-05-09 10:38:54,39,Inhalation exposure
+User_24,https://openalex.org/W2081155210,read,2025-05-22 08:19:52,46,Erythrocyte Function and Pathophysiology
+User_24,https://openalex.org/W2113638573,read,2025-05-06 07:37:47,92,Data analysis
+User_24,https://openalex.org/W2160337655,read,2025-05-24 07:54:43,180,Broadband
+User_24,https://openalex.org/W2116040950,read,2025-05-03 15:30:00,383,Dissipative system
+User_24,https://openalex.org/W2549139847,read,2025-05-11 11:04:36,537,Lipoprotein
+User_24,https://openalex.org/W2150926065,click,2025-05-04 01:42:43,0,Citation
+User_24,https://openalex.org/W1680392829,cite,2025-05-04 16:49:04,0,Posterior cingulate
+User_24,https://openalex.org/W2122111042,click,2025-05-15 20:22:35,0,Online Learning and Analytics
+User_24,https://openalex.org/W2963073614,cite,2025-05-03 18:10:16,0,Condensed matter physics
+User_24,https://openalex.org/W1821462560,read,2025-05-22 01:08:43,167,Peptide sequence
+User_24,https://openalex.org/W2067722023,click,2025-05-11 07:31:41,0,Academic Writing and Publishing
+User_24,https://openalex.org/W2138621811,read,2025-05-04 21:44:16,193,Displacement (psychology)
+User_24,https://openalex.org/W2157575844,click,2025-05-22 12:47:59,0,Benchmark (surveying)
+User_24,https://openalex.org/W2099053943,read,2025-05-23 16:26:13,54,Attrition
+User_24,https://openalex.org/W1963957860,read,2025-05-23 21:28:11,175,Chemical physics
+User_24,https://openalex.org/W2089402107,click,2025-04-29 02:47:05,0,Dirac (video compression format)
+User_24,https://openalex.org/W1821462560,read,2025-04-30 12:33:30,452,Short-term memory
+User_24,https://openalex.org/W4248681815,read,2025-05-04 08:58:05,102,Clustering coefficient
+User_24,https://openalex.org/W2131774270,read,2025-05-18 12:47:24,217,Industrial engineering
+User_24,https://openalex.org/W391578156,click,2025-05-15 06:57:31,0,Spatial database
+User_24,https://openalex.org/W2062024414,read,2025-05-24 01:52:40,367,Algae
+User_24,https://openalex.org/W2963150697,click,2025-05-07 09:13:15,0,Phyletic gradualism
+User_24,https://openalex.org/W2896457183,read,2025-05-04 14:17:23,229,"Health, psychology, and well-being"
+User_24,https://openalex.org/W2062024414,click,2025-05-26 09:54:35,0,Ground state
+User_24,https://openalex.org/W1746819321,read,2025-05-05 05:14:16,167,Molecular Biology Techniques and Applications
+User_24,https://openalex.org/W2173213060,read,2025-05-22 15:48:58,569,Collision frequency
+User_24,https://openalex.org/W2963163009,cite,2025-05-17 14:22:36,0,Garbage
+User_24,https://openalex.org/W62824994,cite,2025-04-30 08:19:15,0,Diverse Educational Innovations Studies
+User_24,https://openalex.org/W2157575844,read,2025-05-16 14:51:26,424,Business administration
+User_24,https://openalex.org/W2020999234,click,2025-05-06 18:36:11,0,Pace
+User_24,https://openalex.org/W2142238829,read,2025-05-07 22:11:51,197,Social and Cultural Dynamics
+User_24,https://openalex.org/W3138516171,read,2025-05-03 21:02:50,502,Theoretical sampling
+User_25,https://openalex.org/W2120772351,read,2025-05-15 11:35:17,330,Appropriation
+User_25,https://openalex.org/W2162800060,read,2025-04-30 16:17:16,198,Advanced Battery Technologies Research
+User_25,https://openalex.org/W2137079713,read,2025-05-26 17:09:57,435,Interactive visualization
+User_25,https://openalex.org/W1522734439,read,2025-05-08 04:45:31,585,Ball (mathematics)
+User_26,https://openalex.org/W2020999234,read,2025-05-19 19:19:46,311,Statistical process control
+User_26,https://openalex.org/W2099574482,read,2025-05-17 12:24:18,71,Convex optimization
+User_26,https://openalex.org/W1992419399,read,2025-05-24 04:41:39,368,Caching and Content Delivery
+User_26,https://openalex.org/W2122825543,read,2025-05-25 17:53:15,237,Drug discovery
+User_26,https://openalex.org/W1569268909,read,2025-05-06 05:59:32,69,Biogenesis
+User_26,https://openalex.org/W1539265701,click,2025-05-20 04:16:13,0,Blockchain Technology Applications and Security
+User_26,https://openalex.org/W2032558547,read,2025-05-24 12:02:41,100,Information Technology Governance and Strategy
+User_26,https://openalex.org/W2954996726,read,2025-05-14 15:27:11,517,Environmentalism
+User_26,https://openalex.org/W2067404301,click,2025-05-27 07:41:21,0,Optimization and Search Problems
+User_26,https://openalex.org/W103650626,read,2025-05-20 09:35:14,140,Earthquake Detection and Analysis
+User_26,https://openalex.org/W2145538332,read,2025-05-14 13:17:53,253,Gel electrophoresis
+User_26,https://openalex.org/W2101963262,read,2025-05-03 15:19:44,288,Advanced Algebra and Logic
+User_26,https://openalex.org/W3128646645,read,2025-05-24 23:59:34,440,Digital Marketing and Social Media
+User_26,https://openalex.org/W2096093282,read,2025-05-22 14:06:48,408,Social science
+User_26,https://openalex.org/W1791587663,click,2025-05-14 08:06:29,0,Stripping (fiber)
+User_26,https://openalex.org/W2160660844,click,2025-05-04 18:36:32,0,Chlorophyll
+User_26,https://openalex.org/W2565639579,cite,2025-05-05 04:55:31,0,Wavelet
+User_26,https://openalex.org/W3122877168,read,2025-05-02 23:41:07,437,Conductive atomic force microscopy
+User_26,https://openalex.org/W1594031697,click,2025-05-28 18:39:33,0,Associative property
+User_26,https://openalex.org/W2049079467,click,2025-05-02 21:36:11,0,Voice activity detection
+User_26,https://openalex.org/W2170120409,read,2025-05-01 01:08:59,531,Neuroinflammation and Neurodegeneration Mechanisms
+User_26,https://openalex.org/W2019291268,read,2025-05-23 08:53:25,91,Gee
+User_26,https://openalex.org/W2108234281,click,2025-05-26 03:21:37,0,Melting curve analysis
+User_26,https://openalex.org/W2159080219,read,2025-05-17 17:13:17,237,Wilcoxon signed-rank test
+User_26,https://openalex.org/W2156125289,click,2025-05-11 18:25:32,0,Network switch
+User_26,https://openalex.org/W2136922672,click,2025-05-25 21:54:05,0,Cadmium sulfide
+User_26,https://openalex.org/W3122877168,click,2025-05-22 15:11:53,0,Dynamics (music)
+User_26,https://openalex.org/W2007221293,read,2025-04-30 17:15:09,246,Motivated reasoning
+User_26,https://openalex.org/W2090167557,read,2025-05-19 02:52:34,97,Restricted maximum likelihood
+User_26,https://openalex.org/W2144775551,read,2025-05-16 23:12:31,83,Medicine
+User_26,https://openalex.org/W2064675550,read,2025-05-13 23:43:55,199,Panel data
+User_26,https://openalex.org/W2158822657,click,2025-05-02 20:19:23,0,Heme Oxygenase-1 and Carbon Monoxide
+User_26,https://openalex.org/W2166244948,read,2025-05-13 10:33:28,380,Dispersion (optics)
+User_26,https://openalex.org/W2157457404,click,2025-05-19 04:51:23,0,Nominal level
+User_26,https://openalex.org/W1979423827,click,2025-05-16 23:49:02,0,Keynesian economics
+User_26,https://openalex.org/W2160184254,read,2025-05-26 16:36:38,305,Colorectal Cancer Screening and Detection
+User_26,https://openalex.org/W1573234480,click,2025-05-16 10:29:26,0,Unix
+User_26,https://openalex.org/W1665214252,read,2025-05-15 07:25:06,470,"Media, Communication, and Education"
+User_26,https://openalex.org/W1708874574,read,2025-05-19 10:07:06,194,Swing
+User_26,https://openalex.org/W2162800060,cite,2025-05-09 22:04:33,0,Mobile telephony
+User_26,https://openalex.org/W1992865536,click,2025-05-15 02:57:50,0,Transforming growth factor
+User_26,https://openalex.org/W1565377632,read,2025-05-21 18:30:54,343,Evolution and Paleontology Studies
+User_26,https://openalex.org/W2031611770,read,2025-05-10 21:46:19,429,Photoreceptor and optogenetics research
+User_26,https://openalex.org/W1557459633,click,2025-05-12 13:30:29,0,Default mode network
+User_26,https://openalex.org/W2161163382,click,2025-05-03 09:44:31,0,Chemistry
+User_26,https://openalex.org/W2222512263,click,2025-05-24 00:25:16,0,Fundamental matrix (linear differential equation)
+User_26,https://openalex.org/W2155648052,read,2025-05-24 20:37:21,320,Behaviour change
+User_26,https://openalex.org/W2087070363,click,2025-05-19 14:22:33,0,Anecdote
+User_26,https://openalex.org/W2082928585,read,2025-05-07 13:11:36,329,Generalizability theory
+User_26,https://openalex.org/W2052393515,read,2025-05-03 12:50:18,77,Social relation
+User_27,https://openalex.org/W1913957972,read,2025-05-21 12:17:51,443,Analytics
+User_27,https://openalex.org/W2090167557,cite,2025-05-05 09:22:52,0,Yeast
+User_27,https://openalex.org/W2138207763,cite,2025-05-06 09:53:22,0,Natural selection
+User_27,https://openalex.org/W2183341477,click,2025-04-30 21:38:31,0,Solow residual
+User_27,https://openalex.org/W4250955649,read,2025-05-11 12:45:12,319,Monocular
+User_28,https://openalex.org/W2028302194,read,2025-05-10 21:54:21,94,Anisotropy
+User_28,https://openalex.org/W2612166593,read,2025-05-17 13:12:46,401,Pearl
+User_28,https://openalex.org/W2053186076,read,2025-05-16 20:08:59,187,Resonator
+User_28,https://openalex.org/W2113638573,read,2025-05-08 23:31:10,227,Topological order
+User_28,https://openalex.org/W2150238850,click,2025-05-16 13:45:18,0,CALPHAD
+User_28,https://openalex.org/W2412782625,click,2025-05-28 01:56:37,0,Isozyme
+User_28,https://openalex.org/W2963420686,click,2025-05-14 13:44:41,0,AI-based Problem Solving and Planning
+User_28,https://openalex.org/W2159080219,cite,2025-05-28 08:25:22,0,Emotional distress
+User_28,https://openalex.org/W2963037989,click,2025-05-07 15:56:25,0,Appropriation
+User_28,https://openalex.org/W1994434576,cite,2025-05-05 19:04:18,0,Open Source Software Innovations
+User_28,https://openalex.org/W2163922914,read,2025-05-25 06:19:31,104,Agrobacterium
+User_28,https://openalex.org/W2148694408,read,2025-05-13 06:46:17,192,Mobile robot
+User_28,https://openalex.org/W2963351448,read,2025-05-18 11:39:03,352,Visible spectrum
+User_28,https://openalex.org/W2962862931,read,2025-05-06 04:18:01,567,Electromagnetics
+User_28,https://openalex.org/W2121947440,read,2025-05-07 18:15:16,488,Reduction (mathematics)
+User_28,https://openalex.org/W2028056984,click,2025-05-01 05:10:48,0,Premise
+User_28,https://openalex.org/W2229412420,read,2025-05-20 21:49:49,462,Lysophosphatidylcholine
+User_28,https://openalex.org/W2100495367,read,2025-05-19 06:57:55,502,Clinical Laboratory Practices and Quality Control
+User_28,https://openalex.org/W2098126593,read,2025-05-26 20:15:29,390,Enterobacteriaceae and Cronobacter Research
+User_28,https://openalex.org/W4248872320,read,2025-05-01 08:56:47,200,Experimental Learning in Engineering
+User_28,https://openalex.org/W1903029394,click,2025-05-14 09:54:15,0,Interest rate
+User_28,https://openalex.org/W2148143831,read,2025-05-27 21:59:00,471,GABAergic
+User_28,https://openalex.org/W2004444667,click,2025-05-18 10:49:03,0,Adaptive Control of Nonlinear Systems
+User_28,https://openalex.org/W2099471712,read,2025-05-23 06:31:55,523,Ultrasound and Hyperthermia Applications
+User_28,https://openalex.org/W1605984840,read,2025-05-22 17:28:27,579,Potential flow around a circular cylinder
+User_28,https://openalex.org/W2004444667,read,2025-05-16 13:44:01,420,Health Sciences Research and Education
+User_28,https://openalex.org/W2126186544,click,2025-05-22 13:53:32,0,Modular Robots and Swarm Intelligence
+User_28,https://openalex.org/W2109255472,read,2025-05-15 22:32:14,421,Range tree
+User_28,https://openalex.org/W2095705004,read,2025-04-29 17:59:10,478,Generative grammar
+User_28,https://openalex.org/W2138207763,cite,2025-05-28 16:55:02,0,Enzyme
+User_28,https://openalex.org/W2150066425,click,2025-05-22 06:20:22,0,Atomic orbital
+User_28,https://openalex.org/W2963403868,read,2025-05-08 17:53:57,375,Calculus (dental)
+User_28,https://openalex.org/W2108921801,click,2025-05-24 20:28:01,0,Cell migration
+User_28,https://openalex.org/W2024966118,click,2025-05-03 03:37:32,0,2019-20 coronavirus outbreak
+User_28,https://openalex.org/W4388297464,read,2025-05-20 05:23:00,538,Phosphorylation
+User_28,https://openalex.org/W1880262756,click,2025-05-26 23:45:18,0,Matching (statistics)
+User_28,https://openalex.org/W2010348352,read,2025-05-10 10:31:02,166,Voltage
+User_29,https://openalex.org/W2746723710,click,2025-05-07 08:53:27,0,Ex-ante
+User_29,https://openalex.org/W2030971064,cite,2025-05-13 14:17:40,0,Nitric oxide synthase
+User_29,https://openalex.org/W2005307077,read,2025-05-12 14:57:23,170,3D Surveying and Cultural Heritage
+User_29,https://openalex.org/W1503398984,read,2025-05-06 23:46:13,348,Lung Cancer Treatments and Mutations
+User_29,https://openalex.org/W2115098571,click,2025-05-15 05:04:11,0,Biomarker
+User_29,https://openalex.org/W2142238829,read,2025-05-14 05:08:43,121,Counterfactual conditional
+User_29,https://openalex.org/W2084652510,read,2025-05-08 08:45:27,230,Macro
+User_29,https://openalex.org/W2889646458,click,2025-05-15 08:22:55,0,Latent semantic analysis
+User_29,https://openalex.org/W2132984323,click,2025-05-08 10:12:37,0,Envelope (radar)
+User_29,https://openalex.org/W2111647009,read,2025-05-10 04:06:47,349,Usability
+User_29,https://openalex.org/W3022808291,read,2025-05-07 07:40:08,484,Pathogenesis
+User_29,https://openalex.org/W2613718673,click,2025-05-19 20:42:26,0,Anomaly (physics)
+User_29,https://openalex.org/W2142238829,read,2025-04-29 10:39:39,564,Transcriptome
+User_29,https://openalex.org/W1969761972,click,2025-05-08 19:35:57,0,SOD1
+User_29,https://openalex.org/W2106787323,cite,2025-05-25 04:35:47,0,Amazon rainforest
+User_29,https://openalex.org/W1815596065,read,2025-05-10 21:11:15,110,Crystallite
+User_29,https://openalex.org/W1971275758,read,2025-05-18 23:59:23,169,Block (permutation group theory)
+User_29,https://openalex.org/W4233194460,read,2025-05-23 21:45:54,168,Organizational theory
+User_29,https://openalex.org/W2100495367,click,2025-05-19 12:05:22,0,Computational electromagnetics
+User_29,https://openalex.org/W2047968138,read,2025-05-14 07:27:18,545,Single camera
+User_29,https://openalex.org/W4248872320,read,2025-05-13 06:20:57,418,Advanced Data Compression Techniques
+User_29,https://openalex.org/W2141088880,read,2025-05-23 11:36:37,158,Thresholding
+User_29,https://openalex.org/W1974085346,read,2025-05-27 02:51:09,90,Ecological niche
+User_29,https://openalex.org/W1973051082,click,2025-05-13 15:32:42,0,Macro
+User_29,https://openalex.org/W3124410800,read,2025-05-05 15:36:33,572,Convolutional neural network
+User_29,https://openalex.org/W2128765501,read,2025-05-16 18:30:41,453,Personal knowledge management
+User_29,https://openalex.org/W2166843422,read,2025-05-26 13:57:45,378,Diplomacy
+User_29,https://openalex.org/W1658908529,read,2025-05-26 08:18:01,507,Fuzzy set operations
+User_29,https://openalex.org/W2170892587,read,2025-05-22 01:41:09,232,Quantum Computing Algorithms and Architecture
+User_29,https://openalex.org/W1840218356,click,2025-04-30 08:13:43,0,Extracellular vesicles
+User_29,https://openalex.org/W2101105183,cite,2025-05-15 16:38:47,0,Graph Theory and Algorithms
+User_29,https://openalex.org/W1997834106,read,2025-05-05 02:47:17,455,Internal validity
+User_29,https://openalex.org/W2096093282,read,2025-05-13 07:36:07,95,Nanowire Synthesis and Applications
+User_29,https://openalex.org/W2134295053,read,2025-05-24 20:50:48,264,Metabolomics and Mass Spectrometry Studies
+User_29,https://openalex.org/W2070227796,cite,2025-05-21 16:36:07,0,Focus (optics)
+User_29,https://openalex.org/W2168420558,read,2025-05-27 17:24:22,213,Context (archaeology)
+User_29,https://openalex.org/W2106787323,cite,2025-05-19 08:11:57,0,Atom (system on chip)
+User_29,https://openalex.org/W1969761972,read,2025-05-01 03:10:08,418,Subjective well-being
+User_29,https://openalex.org/W2045656233,click,2025-05-12 01:04:25,0,Biomedical Text Mining and Ontologies
+User_29,https://openalex.org/W2086957099,read,2025-05-19 00:41:10,399,Alternative asset
+User_29,https://openalex.org/W2084744129,click,2025-05-17 10:34:09,0,Knowledge representation and reasoning
+User_29,https://openalex.org/W2047968138,read,2025-05-15 19:08:40,285,Innovation and Socioeconomic Development
+User_29,https://openalex.org/W2057477511,cite,2025-05-10 03:52:30,0,Forest ecology and management
+User_29,https://openalex.org/W1973051082,click,2025-05-26 11:24:51,0,Permutation (music)
+User_29,https://openalex.org/W2075514521,click,2025-05-02 05:31:07,0,Phylum
+User_29,https://openalex.org/W1533861849,read,2025-05-25 15:42:57,296,Non-uniform discrete Fourier transform
+User_29,https://openalex.org/W1986731219,click,2025-05-12 06:37:56,0,Spontaneous emission
+User_30,https://openalex.org/W2138451337,click,2025-05-17 02:39:28,0,Ab initio quantum chemistry methods
+User_31,https://openalex.org/W2985849463,read,2025-05-08 02:14:15,411,Diversity combining
+User_31,https://openalex.org/W2999905431,read,2025-05-01 10:18:42,284,Extrastriate cortex
+User_31,https://openalex.org/W1679913846,cite,2025-05-12 08:04:49,0,Pathology
+User_31,https://openalex.org/W2004778468,click,2025-05-07 12:06:35,0,Cascade
+User_31,https://openalex.org/W2066261007,click,2025-05-23 23:03:47,0,Top-hat transform
+User_31,https://openalex.org/W2071881327,read,2025-05-03 11:29:21,437,Polysaccharide
+User_31,https://openalex.org/W2133665775,cite,2025-05-24 03:35:27,0,Debt
+User_31,https://openalex.org/W1487127700,read,2025-05-11 13:46:13,305,Statistics
+User_31,https://openalex.org/W2036113194,read,2025-05-04 18:19:18,278,Sparse approximation
+User_31,https://openalex.org/W2146842127,click,2025-05-02 21:48:14,0,Markov model
+User_31,https://openalex.org/W2152885278,read,2025-05-10 08:24:09,353,Clinical trial
+User_31,https://openalex.org/W4301958211,read,2025-05-13 12:59:12,581,Diversity (politics)
+User_31,https://openalex.org/W1836465849,read,2025-05-23 02:53:07,319,Vertex (graph theory)
+User_31,https://openalex.org/W2134295053,read,2025-05-10 20:14:20,346,Causal loop diagram
+User_31,https://openalex.org/W2095561982,read,2025-05-26 16:02:12,431,Well-being
+User_31,https://openalex.org/W2099111195,read,2025-05-22 15:35:56,32,Physical optics
+User_31,https://openalex.org/W2162800060,read,2025-05-10 15:53:17,74,Corruption and Economic Development
+User_31,https://openalex.org/W1522734439,read,2025-04-29 12:53:57,245,Crystal twinning
+User_31,https://openalex.org/W1840218356,read,2025-05-04 14:57:43,62,Energy Efficiency in Computing
+User_31,https://openalex.org/W2146396346,read,2025-05-06 11:14:46,558,Construction Project Management and Performance
+User_31,https://openalex.org/W2036897871,cite,2025-05-02 14:24:43,0,Organizational structure
+User_31,https://openalex.org/W1985579102,read,2025-05-28 08:42:15,435,Microsatellite instability
+User_31,https://openalex.org/W2170102584,cite,2025-05-11 03:54:22,0,Climate Change Policy and Economics
+User_31,https://openalex.org/W2130403046,read,2025-05-22 21:09:38,539,Spin Hall effect
+User_31,https://openalex.org/W2099556653,cite,2025-05-22 05:17:41,0,Advanced Clustering Algorithms Research
+User_31,https://openalex.org/W1757407923,read,2025-04-30 19:50:29,307,Educational technology
+User_31,https://openalex.org/W2107080958,click,2025-05-04 10:38:20,0,Ecology
+User_31,https://openalex.org/W1607171655,click,2025-05-27 06:39:06,0,Hegelianism
+User_31,https://openalex.org/W2039599894,cite,2025-05-07 18:42:21,0,Symmetry (geometry)
+User_31,https://openalex.org/W3124410800,read,2025-05-19 02:16:00,211,Maladaptation
+User_31,https://openalex.org/W2963150697,read,2025-05-21 01:08:28,491,Generative adversarial network
+User_31,https://openalex.org/W2786358356,read,2025-05-14 09:51:03,223,Synchronizing
+User_31,https://openalex.org/W2071881327,read,2025-05-21 09:04:47,120,Diversity (politics)
+User_31,https://openalex.org/W2028302194,read,2025-05-25 11:03:17,576,DECIPHER
+User_31,https://openalex.org/W1515192744,read,2025-05-21 07:16:49,572,Urea
+User_31,https://openalex.org/W2028436804,read,2025-05-18 05:39:17,473,Incidence (geometry)
+User_32,https://openalex.org/W3017143921,click,2025-05-08 20:26:32,0,Solvent models
+User_32,https://openalex.org/W1677182931,click,2025-05-18 09:44:56,0,Adaptive control
+User_32,https://openalex.org/W2145538332,read,2025-04-28 22:17:21,193,Key distribution in wireless sensor networks
+User_32,https://openalex.org/W3102014803,read,2025-05-08 10:38:06,509,Dynamic priority scheduling
+User_32,https://openalex.org/W2531409750,read,2025-05-25 11:34:12,141,Mainland China
+User_32,https://openalex.org/W2618530766,read,2025-05-08 23:00:47,75,Interval (graph theory)
+User_32,https://openalex.org/W2110335151,read,2025-05-10 23:04:12,225,Alpha (finance)
+User_32,https://openalex.org/W2130362098,read,2025-05-04 16:27:16,521,Noise (video)
+User_32,https://openalex.org/W2161444534,read,2025-05-06 14:42:00,542,Periodic boundary conditions
+User_32,https://openalex.org/W2111308925,click,2025-05-05 12:05:35,0,Oxidative Organic Chemistry Reactions
+User_33,https://openalex.org/W2105846236,click,2025-05-04 21:17:48,0,Monocular
+User_34,https://openalex.org/W3123035919,read,2025-05-12 08:05:57,202,Motor cortex
+User_34,https://openalex.org/W2963341956,cite,2025-05-25 12:21:31,0,Wireless broadband
+User_34,https://openalex.org/W2096093282,read,2025-05-28 06:02:23,472,Phospholipid
+User_34,https://openalex.org/W1988182864,read,2025-05-13 14:17:31,423,Bootstrapping (finance)
+User_34,https://openalex.org/W1970442252,click,2025-04-28 22:24:56,0,Community Development and Social Impact
+User_34,https://openalex.org/W2963470893,read,2025-05-11 21:53:00,476,Nicotinic Acetylcholine Receptors Study
+User_34,https://openalex.org/W2090167557,click,2025-05-03 08:40:41,0,Vetting
+User_34,https://openalex.org/W1489838709,read,2025-05-19 21:41:42,265,Humanism
+User_34,https://openalex.org/W2049981393,click,2025-05-17 02:42:50,0,Computational physics
+User_34,https://openalex.org/W2067495470,click,2025-05-12 08:24:09,0,Binomial distribution
+User_34,https://openalex.org/W2049981393,read,2025-05-16 03:33:41,79,Core electron
+User_34,https://openalex.org/W2063978378,read,2025-05-25 04:45:08,201,Grid computing
+User_34,https://openalex.org/W4297775537,click,2025-05-06 03:04:20,0,Thermal hydraulics
+User_34,https://openalex.org/W4294170691,read,2025-05-26 22:48:54,514,Quantum annealing
+User_34,https://openalex.org/W2122122381,read,2025-05-01 21:45:21,30,Statistical Distribution Estimation and Applications
+User_34,https://openalex.org/W2954996726,click,2025-05-21 04:11:35,0,Corporate Taxation and Avoidance
+User_34,https://openalex.org/W1665332082,cite,2025-05-12 21:28:58,0,Industrial and organizational psychology
+User_34,https://openalex.org/W2962793481,read,2025-05-19 21:43:56,247,Transition (genetics)
+User_34,https://openalex.org/W2570343428,read,2025-05-22 07:01:10,55,Receptor
+User_34,https://openalex.org/W2105846236,click,2025-05-15 00:44:17,0,Chemical Synthesis and Characterization
+User_34,https://openalex.org/W2560023338,read,2025-04-30 21:49:02,593,Architecture
+User_34,https://openalex.org/W2157575844,click,2025-05-14 18:26:21,0,Propagation of uncertainty
+User_34,https://openalex.org/W2167667767,cite,2025-05-17 21:57:02,0,Archaea
+User_34,https://openalex.org/W2950577311,read,2025-05-09 16:19:37,338,Endocrinology
+User_34,https://openalex.org/W2282821441,click,2025-05-10 14:20:32,0,Psychosocial
+User_34,https://openalex.org/W3035524453,read,2025-05-09 15:54:56,41,Anxiety
+User_34,https://openalex.org/W2129925362,cite,2025-05-04 13:00:58,0,Cholinesterase and Neurodegenerative Diseases
+User_34,https://openalex.org/W2155628349,cite,2025-05-17 21:38:13,0,Epinephrine
+User_34,https://openalex.org/W2121863487,read,2025-05-11 23:17:24,348,Gaussian noise
+User_34,https://openalex.org/W3015634246,cite,2025-04-30 07:49:48,0,Spins
+User_34,https://openalex.org/W2513506562,read,2025-05-14 08:23:43,449,Upsampling
+User_34,https://openalex.org/W2168696662,click,2025-05-02 22:55:38,0,Cellular network
+User_34,https://openalex.org/W1979423827,click,2025-05-07 14:08:24,0,Contrast (vision)
+User_34,https://openalex.org/W2024966118,read,2025-05-27 11:59:59,384,Art history
+User_34,https://openalex.org/W2020999234,click,2025-05-18 22:29:18,0,Binary image
+User_34,https://openalex.org/W1503398984,click,2025-05-28 17:26:04,0,Bell state
+User_34,https://openalex.org/W4297775537,read,2025-05-10 05:21:48,474,Parametrization (atmospheric modeling)
+User_34,https://openalex.org/W2122122381,cite,2025-05-25 00:06:40,0,Transfer of learning
+User_34,https://openalex.org/W2099053943,read,2025-05-22 05:51:01,39,Inorganic Fluorides and Related Compounds
+User_34,https://openalex.org/W2147880316,read,2025-05-23 03:20:11,65,Security token
+User_35,https://openalex.org/W2106096361,click,2025-05-05 22:40:21,0,Model-Driven Software Engineering Techniques
+User_35,https://openalex.org/W1679913846,read,2025-05-01 10:33:52,228,Probabilistic latent semantic analysis
+User_35,https://openalex.org/W2136922672,click,2025-05-15 18:05:19,0,Cosine similarity
+User_35,https://openalex.org/W2963881378,cite,2025-05-23 21:31:29,0,Geometry
+User_35,https://openalex.org/W2041282815,read,2025-05-03 18:06:29,352,Interferometry
+User_35,https://openalex.org/W1903029394,read,2025-05-17 05:24:19,90,Flicker
+User_35,https://openalex.org/W3102014803,click,2025-05-26 07:33:17,0,Ubiquitin and proteasome pathways
+User_35,https://openalex.org/W2153635508,click,2025-05-24 03:45:08,0,Collagen: Extraction and Characterization
+User_35,https://openalex.org/W2115098571,cite,2025-05-20 10:18:07,0,16S ribosomal RNA
+User_35,https://openalex.org/W1996109622,click,2025-04-30 22:29:47,0,Protein Data Bank
+User_35,https://openalex.org/W2985849463,read,2025-04-29 19:46:13,301,Survey Methodology and Nonresponse
+User_35,https://openalex.org/W4248681815,read,2025-05-01 05:43:17,90,Probabilistic and Robust Engineering Design
+User_35,https://openalex.org/W1614298861,read,2025-05-04 17:40:18,440,Neutron diffraction
+User_35,https://openalex.org/W2193503481,read,2025-05-21 04:31:16,359,Astronomical interferometer
+User_35,https://openalex.org/W2965373594,read,2025-05-12 03:06:52,500,Economic Growth and Fiscal Policies
+User_35,https://openalex.org/W1992419399,read,2025-05-09 07:23:31,529,Boron nitride
+User_35,https://openalex.org/W2161899020,read,2025-05-24 19:56:53,438,Medical Imaging Techniques and Applications
+User_35,https://openalex.org/W2063978378,click,2025-05-20 04:55:49,0,Sars virus
+User_35,https://openalex.org/W1677182931,read,2025-05-23 08:35:46,169,Akaike information criterion
+User_35,https://openalex.org/W2083449279,read,2025-05-14 20:40:35,345,Computational linguistics
+User_35,https://openalex.org/W2130942839,cite,2025-05-28 03:13:56,0,Smoothness
+User_35,https://openalex.org/W2148534890,read,2025-05-23 18:11:39,58,Training (meteorology)
+User_35,https://openalex.org/W2090167557,click,2025-05-02 05:19:15,0,Quantum Information and Cryptography
+User_35,https://openalex.org/W2950577311,click,2025-05-08 12:12:13,0,Genetic structure
+User_35,https://openalex.org/W2962858109,read,2025-05-10 14:23:07,229,Muscle metabolism and nutrition
+User_35,https://openalex.org/W2098126593,click,2025-05-16 21:13:38,0,Scale invariance
+User_35,https://openalex.org/W1903029394,read,2025-05-01 21:01:16,383,Immunotherapy
+User_35,https://openalex.org/W1761828760,click,2025-05-22 15:49:23,0,Thresholding
+User_35,https://openalex.org/W2513506562,click,2025-05-15 06:07:57,0,DNA replication
+User_35,https://openalex.org/W2150104072,read,2025-05-19 21:18:50,465,Magnetic semiconductor
+User_35,https://openalex.org/W2148606196,read,2025-05-25 05:08:44,206,Charge transfer coefficient
+User_35,https://openalex.org/W2010348352,read,2025-05-16 09:18:30,513,Radical Photochemical Reactions
+User_35,https://openalex.org/W2949117887,read,2025-04-29 15:27:09,160,Immune system
+User_35,https://openalex.org/W2120611093,read,2025-05-10 02:30:01,446,Power Systems and Technologies
+User_35,https://openalex.org/W2110065044,read,2025-05-24 06:52:29,338,Focus (optics)
+User_35,https://openalex.org/W2725897987,read,2025-05-27 18:21:58,563,Boundary value problem
+User_35,https://openalex.org/W2412782625,read,2025-04-29 18:28:23,414,Coding (social sciences)
+User_35,https://openalex.org/W2963403868,cite,2025-05-16 21:34:00,0,Yeast
+User_35,https://openalex.org/W2162800060,read,2025-05-11 11:50:17,51,Emotional intelligence
+User_36,https://openalex.org/W1595498733,read,2025-05-23 22:04:15,443,Discrete logarithm
+User_36,https://openalex.org/W2108598243,read,2025-05-22 05:02:47,201,Spectral efficiency
+User_36,https://openalex.org/W1992419399,read,2025-05-15 15:43:20,598,Combinatorial chemistry
+User_36,https://openalex.org/W2158714788,read,2025-05-20 08:42:09,521,BLEU
+User_36,https://openalex.org/W1985749074,cite,2025-05-18 10:45:17,0,Innovator
+User_36,https://openalex.org/W2962835968,read,2025-04-29 18:39:17,271,Augmented Reality Applications
+User_36,https://openalex.org/W1679913846,read,2025-05-19 20:10:15,115,Wireless Communication Networks Research
+User_36,https://openalex.org/W1489838709,read,2025-05-27 20:57:33,583,Cycloaddition
+User_36,https://openalex.org/W1855283887,click,2025-05-04 15:30:10,0,Information Criteria
+User_36,https://openalex.org/W2112796928,read,2025-05-20 06:09:52,405,European union
+User_36,https://openalex.org/W4295312788,read,2025-05-16 16:21:38,535,Object-class detection
+User_36,https://openalex.org/W2063978378,click,2025-05-03 18:19:47,0,Generative adversarial network
+User_36,https://openalex.org/W2154053567,read,2025-05-15 05:04:45,158,Internal medicine
+User_36,https://openalex.org/W2130362098,click,2025-05-11 00:57:27,0,Genetic architecture
+User_36,https://openalex.org/W2111308925,click,2025-04-29 13:41:31,0,RefSeq
+User_36,https://openalex.org/W2019207321,read,2025-05-20 08:59:56,314,Phyletic gradualism
+User_36,https://openalex.org/W2097360283,read,2025-05-24 10:20:17,185,Digital image processing
+User_36,https://openalex.org/W1730782591,read,2025-05-08 14:33:49,207,Syntax
+User_36,https://openalex.org/W2129925362,cite,2025-05-16 09:29:49,0,Ascorbic acid
+User_36,https://openalex.org/W2098126593,read,2025-05-02 21:57:59,595,Law and economics
+User_36,https://openalex.org/W2963091558,read,2025-05-13 20:56:13,235,Geographic routing
+User_36,https://openalex.org/W2152885278,click,2025-05-16 12:53:02,0,Bootstrap model
+User_37,https://openalex.org/W2167452694,click,2025-05-09 10:38:49,0,Competence (human resources)
+User_37,https://openalex.org/W1548802052,read,2025-05-10 19:14:34,199,Copper
+User_37,https://openalex.org/W1979907230,click,2025-05-18 15:03:24,0,Web page
+User_37,https://openalex.org/W2105934661,click,2025-05-06 05:44:04,0,Educational technology
+User_37,https://openalex.org/W1945616565,read,2025-05-15 08:08:48,492,"Obesity, Physical Activity, Diet"
+User_37,https://openalex.org/W2163297822,click,2025-05-16 17:28:49,0,Coordination number
+User_37,https://openalex.org/W2148143831,read,2025-05-18 17:13:55,307,Metaheuristic
+User_37,https://openalex.org/W2046001409,click,2025-05-20 09:10:11,0,Plot (graphics)
+User_37,https://openalex.org/W2161444534,read,2025-05-16 13:46:19,473,Quarantine
+User_37,https://openalex.org/W1924618820,read,2025-04-30 20:46:34,309,Computer security
+User_37,https://openalex.org/W2120865735,read,2025-05-25 08:14:18,322,Usability
+User_37,https://openalex.org/W3125601827,click,2025-05-28 16:15:30,0,Moderated mediation
+User_37,https://openalex.org/W2962858109,click,2025-05-03 16:38:41,0,Pearl
+User_37,https://openalex.org/W2118202495,cite,2025-05-13 07:53:34,0,Data-Driven Disease Surveillance
+User_37,https://openalex.org/W2004444667,read,2025-05-16 18:04:15,161,Centrality
+User_37,https://openalex.org/W1995945562,read,2025-05-01 22:12:42,345,Titan (rocket family)
+User_37,https://openalex.org/W2035266068,read,2025-05-24 10:20:02,506,Mathematics and Applications
+User_37,https://openalex.org/W2134843796,cite,2025-05-02 22:00:25,0,Preprocessor
+User_37,https://openalex.org/W2159080219,read,2025-05-05 06:02:02,305,Segmentation
+User_37,https://openalex.org/W2148603752,click,2025-05-05 23:48:18,0,Sagittal plane
+User_38,https://openalex.org/W1614298861,read,2025-05-25 03:07:13,60,"Counseling, Therapy, and Family Dynamics"
+User_38,https://openalex.org/W2160643434,read,2025-05-20 13:03:27,59,Glioma Diagnosis and Treatment
+User_38,https://openalex.org/W1969483458,read,2025-05-13 18:41:17,551,Eddy
+User_38,https://openalex.org/W1659842140,read,2025-05-22 07:21:48,361,Computational electromagnetics
+User_38,https://openalex.org/W2168696662,cite,2025-05-16 09:14:21,0,Imperfect
+User_38,https://openalex.org/W2158714788,cite,2025-05-08 17:20:13,0,Radiology
+User_38,https://openalex.org/W2531409750,read,2025-05-06 17:22:24,195,Accelerometer
+User_38,https://openalex.org/W2965373594,read,2025-05-16 16:48:31,295,Risk Perception and Management
+User_38,https://openalex.org/W2152195021,read,2025-05-05 18:49:22,86,Syntax error
+User_38,https://openalex.org/W2165698076,click,2025-05-06 00:33:49,0,Inverse problem
+User_38,https://openalex.org/W2557283755,cite,2025-05-18 14:36:39,0,Asynchronous communication
+User_38,https://openalex.org/W2183341477,read,2025-05-28 08:06:11,590,World Wide Web
+User_38,https://openalex.org/W2149992227,click,2025-05-11 10:33:21,0,Dimensionality reduction
+User_38,https://openalex.org/W2024966118,click,2025-05-26 06:54:57,0,Water model
+User_38,https://openalex.org/W2146058063,read,2025-05-19 09:36:12,86,Asymptomatic
+User_38,https://openalex.org/W2161969291,read,2025-05-14 16:57:19,325,Glutathione reductase
+User_38,https://openalex.org/W2999905431,click,2025-05-03 12:37:30,0,SAGE
+User_38,https://openalex.org/W1659842140,read,2025-05-03 00:45:16,433,Electrostatics
+User_38,https://openalex.org/W2113638573,read,2025-05-14 08:37:42,414,Finite element method
+User_38,https://openalex.org/W2116649573,read,2025-05-16 10:16:42,505,Inelastic collision
+User_38,https://openalex.org/W2091579301,click,2025-04-30 03:22:53,0,Space time
+User_38,https://openalex.org/W2183341477,click,2025-05-19 19:13:37,0,Prime mover
+User_38,https://openalex.org/W2122410182,read,2025-05-19 02:09:36,481,Electron microscope
+User_38,https://openalex.org/W2962862931,click,2025-05-14 17:17:40,0,Topology Optimization in Engineering
+User_38,https://openalex.org/W2395611524,read,2025-05-19 22:10:12,517,Deception
+User_38,https://openalex.org/W2250539671,read,2025-05-03 20:21:03,228,Computer engineering
+User_38,https://openalex.org/W4292779060,click,2025-05-13 04:04:34,0,Atoms in molecules
+User_38,https://openalex.org/W2560023338,read,2025-05-25 03:47:43,262,Developmental psychology
+User_38,https://openalex.org/W2106822551,read,2025-05-04 06:45:40,95,Improvisation
+User_38,https://openalex.org/W4245961435,click,2025-05-21 20:14:28,0,CRFS
+User_38,https://openalex.org/W2122122381,read,2025-05-09 05:10:38,317,Census and Population Estimation
+User_38,https://openalex.org/W2159707944,read,2025-05-25 06:09:42,136,16S ribosomal RNA
+User_38,https://openalex.org/W2107396783,read,2025-05-01 00:34:13,179,Market risk
+User_38,https://openalex.org/W2006617902,cite,2025-05-10 02:37:09,0,Advanced Statistical Modeling Techniques
+User_38,https://openalex.org/W2156125289,click,2025-04-30 02:33:20,0,Human settlement
+User_38,https://openalex.org/W2179492332,click,2025-05-14 19:02:12,0,Bureaucracy
+User_38,https://openalex.org/W2988934653,cite,2025-05-25 21:26:37,0,Optimization and Search Problems
+User_38,https://openalex.org/W1660390307,cite,2025-05-14 16:10:25,0,Model selection
+User_39,https://openalex.org/W2162098634,cite,2025-05-07 16:56:22,0,Genomics
+User_39,https://openalex.org/W2047205370,cite,2025-05-20 08:17:28,0,Genomics
+User_39,https://openalex.org/W1964895626,click,2025-05-19 09:13:31,0,Genomics
+User_40,https://openalex.org/W2028231353,read,2025-05-26 21:50:21,165,Fluid dynamics and aerodynamics studies
+User_40,https://openalex.org/W2125055259,read,2025-05-03 04:47:28,442,Balanced flow
+User_40,https://openalex.org/W2164154943,cite,2025-05-25 15:04:15,0,Data Protection Act 1998
+User_40,https://openalex.org/W2129925362,read,2025-05-19 10:30:34,308,Service-Learning and Community Engagement
+User_40,https://openalex.org/W2965373594,click,2025-05-06 16:25:05,0,Sociological imagination
+User_40,https://openalex.org/W2091579301,read,2025-05-08 12:59:05,368,Carbon Dioxide Capture Technologies
+User_40,https://openalex.org/W1490421035,click,2025-05-24 05:32:32,0,Vulnerability (computing)
+User_40,https://openalex.org/W2109364787,read,2025-05-04 10:38:19,393,Publishing
+User_40,https://openalex.org/W2041280856,click,2025-04-29 06:18:20,0,Hilbert spectral analysis
+User_40,https://openalex.org/W2145538332,read,2025-05-03 14:44:57,444,Equations of motion
+User_40,https://openalex.org/W2171268876,read,2025-05-14 09:42:08,389,Ensemble Kalman filter
+User_40,https://openalex.org/W1554944419,read,2025-05-08 03:44:22,264,Fuzzy set
+User_40,https://openalex.org/W2159675211,click,2025-05-14 12:09:04,0,Stiffness
+User_40,https://openalex.org/W2115098571,read,2025-04-29 02:35:18,446,Akaike information criterion
+User_40,https://openalex.org/W2122410182,read,2025-05-01 16:09:35,578,Sociological theory
+User_40,https://openalex.org/W2153635508,click,2025-05-19 04:22:35,0,Throughput
+User_40,https://openalex.org/W62824994,click,2025-05-07 03:47:43,0,Cryptosystem
+User_40,https://openalex.org/W2789843538,click,2025-05-12 17:10:49,0,ATP Synthase and ATPases Research
+User_40,https://openalex.org/W1554944419,cite,2025-05-05 21:18:51,0,Experimental Behavioral Economics Studies
+User_40,https://openalex.org/W1679913846,read,2025-05-24 15:38:12,310,Transfer RNA
+User_40,https://openalex.org/W2091579301,read,2025-05-17 13:12:50,545,Quantum chemical
+User_40,https://openalex.org/W2963341956,read,2025-05-16 09:44:15,56,Epiphenomenon
+User_40,https://openalex.org/W273955616,read,2025-05-09 15:47:42,77,Variables
+User_40,https://openalex.org/W2163352848,read,2025-05-18 04:26:47,90,Cold Atom Physics and Bose-Einstein Condensates
+User_40,https://openalex.org/W2126105956,click,2025-05-02 13:25:49,0,Commons
+User_40,https://openalex.org/W2125838338,click,2025-05-24 13:24:34,0,Market economy
+User_40,https://openalex.org/W62824994,read,2025-05-16 14:45:15,407,Innovation Policy and R&D
+User_40,https://openalex.org/W2194775991,read,2025-05-05 22:15:52,269,Pigment Synthesis and Properties
+User_40,https://openalex.org/W2147880316,read,2025-05-11 23:40:41,519,Circumscription
+User_40,https://openalex.org/W2164598857,cite,2025-05-04 07:46:07,0,Memristor
+User_40,https://openalex.org/W2168356304,read,2025-05-21 00:05:57,449,Agency cost
+User_41,https://openalex.org/W2071881327,read,2025-05-09 16:11:30,599,Sequence database
+User_41,https://openalex.org/W2949117887,read,2025-05-28 07:48:56,233,Enterprise software
+User_41,https://openalex.org/W2766736793,read,2025-05-28 09:02:58,460,Sample (material)
+User_42,https://openalex.org/W2557283755,read,2025-05-25 14:12:46,313,Microbial Community Ecology and Physiology
+User_42,https://openalex.org/W2154053567,read,2025-05-26 22:53:17,242,Functional genomics
+User_42,https://openalex.org/W1985749074,read,2025-05-09 12:52:55,333,Convex hull
+User_42,https://openalex.org/W2160643434,click,2025-05-20 02:53:00,0,Environmental pollution
+User_42,https://openalex.org/W1576818901,click,2025-05-17 20:36:52,0,Homology modeling
+User_42,https://openalex.org/W2067404301,click,2025-05-02 01:32:53,0,Alzheimer's disease research and treatments
+User_42,https://openalex.org/W2141052558,read,2025-05-26 06:46:37,411,Scintillation
+User_42,https://openalex.org/W2963881378,read,2025-05-17 14:18:31,230,Quantum Dots Synthesis And Properties
+User_42,https://openalex.org/W2071881327,click,2025-05-17 02:22:09,0,Demography
+User_42,https://openalex.org/W2404280981,read,2025-05-03 08:51:38,339,Quantum dot
+User_42,https://openalex.org/W950821216,click,2025-05-15 19:40:44,0,Raman spectroscopy
+User_42,https://openalex.org/W2135526934,read,2025-05-21 04:35:31,546,Albumin
+User_42,https://openalex.org/W2017108196,read,2025-05-10 02:12:46,532,Cysteine
+User_42,https://openalex.org/W2618530766,click,2025-05-28 18:48:49,0,Hydrology (agriculture)
+User_42,https://openalex.org/W2138207763,read,2025-05-19 07:03:45,112,Legal Education and Practice Innovations
+User_42,https://openalex.org/W2128272608,read,2025-05-04 05:29:11,92,Data presentation
+User_43,https://openalex.org/W4245961435,read,2025-05-13 09:53:56,282,PKCS #1
+User_43,https://openalex.org/W2066060292,read,2025-05-03 13:38:14,142,Extracellular
+User_43,https://openalex.org/W2789843538,read,2025-05-24 03:01:32,344,Graphene and Nanomaterials Applications
+User_43,https://openalex.org/W2135255848,cite,2025-05-23 13:43:58,0,Shannon–Fano coding
+User_43,https://openalex.org/W3123035919,read,2025-05-20 20:27:55,394,Animal and Plant Science Education
+User_43,https://openalex.org/W2152195021,click,2025-05-01 06:11:35,0,Routing (electronic design automation)
+User_43,https://openalex.org/W2296616510,click,2025-04-30 09:36:06,0,Management and Optimization Techniques
+User_43,https://openalex.org/W2111684210,cite,2025-05-08 18:24:52,0,Belongingness
+User_43,https://openalex.org/W2151554678,read,2025-05-09 23:14:39,328,Lens (geology)
+User_43,https://openalex.org/W2165558283,read,2025-04-30 18:15:26,240,Cholesterol oxidase
+User_43,https://openalex.org/W2032558547,read,2025-05-16 13:36:04,494,Kidney disease
+User_43,https://openalex.org/W1979544533,click,2025-05-01 17:42:17,0,Assertion
+User_43,https://openalex.org/W1897139626,read,2025-05-02 12:39:22,82,Growth Hormone and Insulin-like Growth Factors
+User_43,https://openalex.org/W2342091124,cite,2025-05-05 04:31:06,0,Environmental regulation
+User_43,https://openalex.org/W1981593008,click,2025-04-29 04:59:36,0,Lipid Membrane Structure and Behavior
+User_43,https://openalex.org/W2160790360,read,2025-05-02 14:04:56,257,Diffusion
+User_43,https://openalex.org/W2127336290,read,2025-05-08 20:21:34,82,Las vegas
+User_43,https://openalex.org/W1985579102,click,2025-05-27 15:58:23,0,SPARK (programming language)
+User_43,https://openalex.org/W2272984102,cite,2025-05-06 06:35:30,0,Action (physics)
+User_43,https://openalex.org/W1990074132,read,2025-05-28 00:45:52,84,K-SVD
+User_43,https://openalex.org/W1978890358,cite,2025-05-11 11:38:19,0,Semantic reasoner
+User_43,https://openalex.org/W2162437324,read,2025-05-11 04:45:32,81,Demographic economics
+User_43,https://openalex.org/W2152311269,read,2025-05-17 18:42:02,491,Computational fluid dynamics
+User_43,https://openalex.org/W3035524453,click,2025-05-24 03:45:28,0,"Genetics, Bioinformatics, and Biomedical Research"
+User_43,https://openalex.org/W2038721957,click,2025-05-12 21:20:54,0,Environmental protection
+User_43,https://openalex.org/W2049981393,read,2025-05-18 05:38:24,226,Energy transformation
+User_43,https://openalex.org/W2017196167,read,2025-05-24 10:28:55,195,Transfer RNA
+User_43,https://openalex.org/W2764347725,cite,2025-05-24 05:12:31,0,Market mechanism
+User_43,https://openalex.org/W2089402107,click,2025-05-16 11:31:08,0,Evidence-based medicine
+User_43,https://openalex.org/W2000117884,click,2025-05-15 02:58:20,0,Turn-taking
+User_43,https://openalex.org/W2109363337,read,2025-05-03 10:02:31,391,Sequence logo
+User_43,https://openalex.org/W3177828909,click,2025-05-10 08:36:42,0,Sterol
+User_43,https://openalex.org/W1836465849,read,2025-05-16 19:25:40,430,Criterion validity
+User_43,https://openalex.org/W4385245566,read,2025-05-12 02:58:51,478,Gas dynamics
+User_43,https://openalex.org/W2125055259,click,2025-05-18 08:12:12,0,Probabilistic logic
+User_43,https://openalex.org/W2336416123,click,2025-05-04 22:29:43,0,Silicon Nanostructures and Photoluminescence
+User_43,https://openalex.org/W1979423827,read,2025-05-14 22:30:01,60,Land cover
+User_43,https://openalex.org/W2138207763,read,2025-05-03 01:55:56,220,Reciprocity (cultural anthropology)
+User_43,https://openalex.org/W1658472922,click,2025-05-04 04:00:05,0,Decoding methods
+User_43,https://openalex.org/W2108834246,read,2025-05-06 03:20:51,205,Eigenvalues and eigenvectors
+User_43,https://openalex.org/W2041902442,click,2025-05-25 15:44:07,0,Molecular genetics
+User_43,https://openalex.org/W1989314580,read,2025-05-03 20:45:49,563,Sexual Assault and Victimization Studies
+User_43,https://openalex.org/W2123341385,read,2025-05-17 03:33:35,96,Scopus
+User_43,https://openalex.org/W2963091558,click,2025-05-11 14:39:40,0,Homogeneity (statistics)
+User_43,https://openalex.org/W2134233006,read,2025-05-07 14:04:52,284,Probit
+User_43,https://openalex.org/W2096093282,click,2025-05-02 23:05:38,0,Homology (biology)
+User_43,https://openalex.org/W2016381774,read,2025-04-29 04:53:43,564,Mathematical and Theoretical Epidemiology and Ecology Models
+User_43,https://openalex.org/W2166858912,read,2025-05-20 10:08:19,141,National Comorbidity Survey
+User_44,https://openalex.org/W2165698076,read,2025-05-07 11:31:49,117,Mean-shift
+User_44,https://openalex.org/W2152195021,click,2025-05-27 00:55:18,0,Diamond
+User_44,https://openalex.org/W2116649573,read,2025-05-17 07:33:01,36,Operator (biology)
+User_44,https://openalex.org/W1855283887,click,2025-04-30 22:21:25,0,Pascal (unit)
+User_44,https://openalex.org/W1963957860,read,2025-05-13 22:57:11,489,Computational biology
+User_44,https://openalex.org/W2493916176,click,2025-05-21 09:29:39,0,Anomalous diffusion
+User_44,https://openalex.org/W2122111042,read,2025-05-03 15:06:44,213,Global socioeconomic and cultural dynamics
+User_44,https://openalex.org/W1979907230,read,2025-05-01 21:42:56,139,Binomial (polynomial)
+User_44,https://openalex.org/W1680392829,read,2025-05-03 15:30:24,190,Extended X-ray absorption fine structure
+User_44,https://openalex.org/W2062024414,read,2025-05-06 00:07:19,341,Body weight
+User_44,https://openalex.org/W2949117887,read,2025-05-03 07:08:50,388,Ion-surface interactions and analysis
+User_44,https://openalex.org/W2004548026,read,2025-05-02 14:41:22,517,Carbon sink
+User_44,https://openalex.org/W2171268876,read,2025-04-30 17:19:07,480,Remote-Sensing Image Classification
+User_44,https://openalex.org/W1969761972,cite,2025-05-15 09:33:04,0,Empirical evidence
+User_44,https://openalex.org/W2150134853,read,2025-05-17 00:46:39,74,Legendre wavelet
+User_44,https://openalex.org/W4213009331,read,2025-05-27 19:37:46,336,Penalty method
+User_44,https://openalex.org/W2091579301,click,2025-05-18 06:45:01,0,Cytoskeleton
+User_44,https://openalex.org/W1988182864,click,2025-04-30 03:01:17,0,Management system
+User_44,https://openalex.org/W2138621811,click,2025-05-17 13:47:12,0,Quantum technology
+User_44,https://openalex.org/W2115217290,read,2025-05-21 14:17:23,338,Alanine
+User_44,https://openalex.org/W2896457183,click,2025-05-25 00:31:03,0,Graphene and Nanomaterials Applications
+User_44,https://openalex.org/W2100495367,click,2025-05-22 00:42:15,0,Magnetic and transport properties of perovskites and related materials
+User_44,https://openalex.org/W2068155429,click,2025-05-28 17:47:30,0,International relations
+User_44,https://openalex.org/W2138451337,read,2025-05-16 10:56:33,531,Lipoprotein
+User_44,https://openalex.org/W2120611093,click,2025-05-03 23:13:25,0,Molecular Biology Techniques and Applications
+User_44,https://openalex.org/W1913957972,read,2025-05-15 06:04:24,247,Vector map
+User_44,https://openalex.org/W2965373594,read,2025-05-15 15:21:27,172,Paleontology
+User_44,https://openalex.org/W1659842140,read,2025-05-10 15:35:54,174,Ternary search tree
+User_44,https://openalex.org/W2117228865,click,2025-04-29 18:55:17,0,Profitability index
+User_44,https://openalex.org/W2145538332,click,2025-05-02 00:50:21,0,Numerical analysis
+User_44,https://openalex.org/W1988182864,read,2025-05-16 18:53:15,60,Sustainable Development and Environmental Policy
+User_44,https://openalex.org/W2993383518,click,2025-05-13 11:20:04,0,Locus (genetics)
+User_44,https://openalex.org/W2100495367,click,2025-05-07 18:46:31,0,Wiener filter
+User_44,https://openalex.org/W1979423827,read,2025-05-04 04:24:42,324,Black hole (networking)
+User_44,https://openalex.org/W2110065044,read,2025-04-29 07:41:50,539,Practice theory
+User_44,https://openalex.org/W260994251,read,2025-05-22 19:05:19,377,Educational and Psychological Assessments
+User_44,https://openalex.org/W3094502228,read,2025-05-08 04:14:57,136,Hydraulic conductivity
+User_44,https://openalex.org/W2164599981,click,2025-05-22 17:30:14,0,Electroblotting
+User_45,https://openalex.org/W2165010366,read,2025-05-28 17:53:38,280,Quasi-Monte Carlo method
+User_45,https://openalex.org/W2123036062,click,2025-05-21 17:49:57,0,Reset (finance)
+User_45,https://openalex.org/W1979907230,read,2025-05-03 11:31:28,402,Antenna measurement
+User_45,https://openalex.org/W4293584584,read,2025-05-11 07:02:55,293,Health Sciences Research and Education
+User_45,https://openalex.org/W2015930340,read,2025-05-06 09:52:14,188,Impurity
+User_45,https://openalex.org/W2058085399,cite,2025-05-02 01:44:30,0,High-Temperature Coating Behaviors
+User_45,https://openalex.org/W1906197854,read,2025-05-11 01:41:33,448,OpenFlow
+User_45,https://openalex.org/W2099249565,click,2025-05-19 07:09:52,0,Spin density
+User_45,https://openalex.org/W2789843538,read,2025-05-24 07:17:51,193,Thermography and Photoacoustic Techniques
+User_45,https://openalex.org/W1855283887,read,2025-05-10 07:34:34,358,Distributed systems and fault tolerance
+User_45,https://openalex.org/W2150104072,click,2025-04-30 23:47:26,0,Probability density function
+User_45,https://openalex.org/W2049981393,click,2025-05-28 02:42:56,0,Evidence-based medicine
+User_45,https://openalex.org/W2896457183,read,2025-04-29 17:47:00,319,Unsupervised learning
+User_45,https://openalex.org/W1650728208,read,2025-05-07 18:46:29,422,Fast Fourier transform
+User_45,https://openalex.org/W2963150697,read,2025-05-21 14:34:17,425,Pathogenesis
+User_45,https://openalex.org/W2116649573,click,2025-05-21 18:47:12,0,Debugging
+User_45,https://openalex.org/W2018314772,click,2025-05-09 19:35:47,0,Longitude
+User_45,https://openalex.org/W2122410182,read,2025-05-03 17:56:21,525,Set (abstract data type)
+User_45,https://openalex.org/W2763766763,click,2025-05-09 13:14:16,0,Theoretical physics
+User_45,https://openalex.org/W2104549677,read,2025-05-01 14:01:36,286,Incentive
+User_45,https://openalex.org/W2140918013,read,2025-05-05 06:56:36,328,Parsing
+User_45,https://openalex.org/W2141088880,click,2025-04-29 02:26:27,0,Object-oriented programming
+User_45,https://openalex.org/W4233654598,click,2025-05-01 11:55:47,0,Conditional independence
+User_45,https://openalex.org/W3126081245,read,2025-05-14 08:55:57,384,Climate Change Policy and Economics
+User_45,https://openalex.org/W2157823046,read,2025-04-30 04:15:55,523,Data pre-processing
+User_45,https://openalex.org/W1803273808,read,2025-05-18 19:26:01,578,Thermochemistry
+User_45,https://openalex.org/W2124386111,read,2025-05-18 03:30:33,414,Burnout
+User_45,https://openalex.org/W2963091558,cite,2025-05-24 11:32:46,0,Merger and Competition Analysis
+User_45,https://openalex.org/W1678356000,read,2025-05-01 02:37:20,98,Cycloaddition
+User_45,https://openalex.org/W2143485490,read,2025-05-20 19:05:45,35,Citation database
+User_45,https://openalex.org/W2160643434,read,2025-05-08 07:04:20,42,Organizational learning
+User_45,https://openalex.org/W2789843538,read,2025-05-24 03:42:25,579,Jackknife resampling
+User_45,https://openalex.org/W2029056003,click,2025-05-26 09:57:54,0,"Stellar, planetary, and galactic studies"
+User_45,https://openalex.org/W2097571405,read,2025-04-29 19:45:58,222,Expectation–maximization algorithm
+User_45,https://openalex.org/W2928665623,click,2025-05-20 23:59:41,0,Application programming interface
+User_45,https://openalex.org/W1577785489,click,2025-05-26 15:13:08,0,Current algebra
+User_45,https://openalex.org/W2129925362,read,2025-05-21 00:37:31,492,ENCODE
+User_45,https://openalex.org/W2083222334,read,2025-05-15 22:32:05,236,Estimating equations
+User_45,https://openalex.org/W1524573041,click,2025-05-24 15:17:36,0,Association (psychology)
+User_45,https://openalex.org/W2161444534,read,2025-05-10 06:46:14,226,Standardized mortality ratio
+User_45,https://openalex.org/W2091069417,read,2025-05-12 19:49:19,521,Autowave
+User_45,https://openalex.org/W2131681506,read,2025-05-07 02:03:13,405,Business Strategy and Innovation
+User_46,https://openalex.org/W1522734439,click,2025-05-12 03:50:34,0,Stripping (fiber)
+User_46,https://openalex.org/W2062024414,click,2025-05-14 10:34:31,0,Curriculum
+User_46,https://openalex.org/W4295312788,cite,2025-05-07 04:21:39,0,Symmetry breaking
+User_46,https://openalex.org/W1503398984,click,2025-05-22 23:58:49,0,Tauopathy
+User_46,https://openalex.org/W1673310716,read,2025-05-10 21:16:39,347,Consumer Behavior in Brand Consumption and Identification
+User_46,https://openalex.org/W2085261163,read,2025-05-03 11:37:56,43,Rationalization (economics)
+User_46,https://openalex.org/W4250955649,read,2025-05-16 20:11:17,155,Healthcare Technology and Patient Monitoring
+User_46,https://openalex.org/W2105934661,read,2025-05-17 03:48:58,520,Sampling design
+User_46,https://openalex.org/W2006617902,click,2025-05-09 03:21:22,0,Peer-to-Peer Network Technologies
+User_46,https://openalex.org/W2105934661,read,2025-05-20 22:49:31,570,Heart Rate Variability and Autonomic Control
+User_46,https://openalex.org/W2963163009,read,2025-05-05 15:26:51,101,Political communication
+User_46,https://openalex.org/W2158196600,read,2025-05-28 06:06:33,276,Interaction network
+User_46,https://openalex.org/W2110485445,read,2025-05-16 04:46:40,154,Dynamic risk measure
+User_46,https://openalex.org/W2141088880,read,2025-05-19 18:59:06,546,Partial least squares regression
+User_46,https://openalex.org/W2133665775,read,2025-05-23 13:39:00,125,Flicker noise
+User_46,https://openalex.org/W2165299997,read,2025-05-07 13:01:02,126,"Media, Communication, and Education"
+User_46,https://openalex.org/W1522048223,click,2025-05-22 21:39:49,0,Clique percolation method
+User_46,https://openalex.org/W2133564696,read,2025-04-29 22:40:40,43,Encoder
+User_46,https://openalex.org/W2151693816,read,2025-05-22 08:44:06,548,Robot Manipulation and Learning
+User_46,https://openalex.org/W1964895626,read,2025-05-28 16:14:59,485,Emerging technologies
+User_46,https://openalex.org/W1533179050,click,2025-05-15 05:20:45,0,Ribonuclease
+User_46,https://openalex.org/W2068155429,read,2025-05-03 11:13:04,58,Copolymer
+User_46,https://openalex.org/W3017143921,read,2025-05-25 01:42:17,478,Marketing and Advertising Strategies
+User_46,https://openalex.org/W2169678694,cite,2025-05-01 17:06:47,0,Supercomputer
+User_46,https://openalex.org/W2766736793,read,2025-05-07 22:02:05,61,Meaning-making
+User_46,https://openalex.org/W3102014803,read,2025-05-23 06:53:05,366,Slice sampling
+User_46,https://openalex.org/W2118258530,read,2025-05-05 16:47:29,327,Conceptual framework
+User_46,https://openalex.org/W2051381895,read,2025-04-30 14:47:32,305,Cognitive impairment
+User_46,https://openalex.org/W1522048223,read,2025-05-09 02:44:48,456,Economic geography
+User_47,https://openalex.org/W1673310716,cite,2025-05-13 15:20:41,0,Biological database
+User_47,https://openalex.org/W2135526934,click,2025-05-24 19:58:45,0,Skeletal muscle
+User_47,https://openalex.org/W2130942839,read,2025-05-26 21:08:31,421,Scientific Research and Discoveries
+User_47,https://openalex.org/W1988050849,read,2025-05-08 16:25:35,515,Constructivist grounded theory
+User_47,https://openalex.org/W2106096361,cite,2025-05-16 14:44:20,0,Boundary layer
+User_47,https://openalex.org/W2167667767,read,2025-05-17 01:37:16,211,Advanced Data Processing Techniques
+User_47,https://openalex.org/W2142238829,read,2025-05-05 01:08:51,372,Fluorescence-lifetime imaging microscopy
+User_47,https://openalex.org/W2183341477,click,2025-05-23 07:23:40,0,Scientific Research and Philosophical Inquiry
+User_47,https://openalex.org/W1990748933,read,2025-05-23 02:27:26,416,Video processing
+User_47,https://openalex.org/W2116040950,read,2025-04-30 19:34:18,108,Trellis (graph)
+User_47,https://openalex.org/W2999905431,read,2025-05-27 14:04:52,557,Operations research
+User_47,https://openalex.org/W4294170691,read,2025-04-30 23:31:31,528,Brain mapping
+User_48,https://openalex.org/W2126186544,read,2025-05-18 11:04:51,458,Keratin
+User_48,https://openalex.org/W2124386111,read,2025-05-19 01:27:09,377,Noise reduction
+User_48,https://openalex.org/W3138516171,click,2025-05-16 02:03:02,0,Pigou effect
+User_48,https://openalex.org/W2990138404,read,2025-05-16 16:26:00,395,Substrate specificity
+User_48,https://openalex.org/W1746819321,read,2025-05-14 08:32:32,228,Biology
+User_48,https://openalex.org/W2612166593,read,2025-05-11 16:15:40,488,Environmental protection
+User_48,https://openalex.org/W2157575844,read,2025-04-30 17:39:51,353,Decision Support System Applications
+User_48,https://openalex.org/W2403035479,click,2025-05-01 08:26:11,0,Immune Cell Function and Interaction
+User_48,https://openalex.org/W2766736793,read,2025-05-22 14:32:13,119,Penalty method
+User_48,https://openalex.org/W3138516171,read,2025-05-20 21:42:27,116,Amniotic stem cells
+User_48,https://openalex.org/W2963446712,read,2025-05-03 16:23:50,498,University-Industry-Government Innovation Models
+User_48,https://openalex.org/W2131774270,click,2025-05-14 15:01:41,0,Medical Imaging and Analysis
+User_48,https://openalex.org/W2008854521,cite,2025-05-14 22:18:02,0,Expert system
+User_48,https://openalex.org/W1994434576,read,2025-05-18 22:16:50,49,Electron and X-Ray Spectroscopy Techniques
+User_48,https://openalex.org/W2109364787,read,2025-05-20 16:24:48,430,Therapeutic angiogenesis
+User_48,https://openalex.org/W1969761972,click,2025-05-20 22:41:08,0,Bootstrap model
+User_48,https://openalex.org/W2138207763,click,2025-05-18 06:25:46,0,Hawking
+User_49,https://openalex.org/W2171268876,click,2025-05-27 23:46:39,0,Biochemical engineering
+User_49,https://openalex.org/W1489838709,read,2025-05-03 20:58:05,416,Situated cognition
+User_49,https://openalex.org/W2131774270,cite,2025-05-28 00:10:15,0,Team composition
+User_49,https://openalex.org/W2612166593,read,2025-05-04 19:49:55,105,Quasar
+User_49,https://openalex.org/W2963163009,click,2025-04-30 06:06:07,0,Polymer Surface Interaction Studies
+User_49,https://openalex.org/W1576818901,click,2025-05-16 21:57:25,0,Cleave
+User_49,https://openalex.org/W2148698435,read,2025-05-15 08:54:32,95,Ubiquitin
+User_49,https://openalex.org/W2020999234,read,2025-05-19 06:32:36,61,Medical physics
+User_49,https://openalex.org/W2010348352,read,2025-05-12 04:20:48,484,Modular design
+User_49,https://openalex.org/W2964308564,read,2025-05-15 15:06:15,212,Collaborative filtering
+User_49,https://openalex.org/W1996109622,read,2025-05-15 11:54:42,482,Chemical Synthesis and Reactions
+User_49,https://openalex.org/W2565639579,read,2025-05-11 09:52:24,311,Ecological psychology
+User_49,https://openalex.org/W2132632499,click,2025-05-18 08:30:17,0,Direct simulation Monte Carlo
+User_49,https://openalex.org/W2109364787,read,2025-05-21 08:44:41,43,Molecular orbital theory
+User_49,https://openalex.org/W2163922914,read,2025-05-28 11:50:59,297,Agency cost
+User_49,https://openalex.org/W2163605009,read,2025-05-18 03:35:18,395,Customer base
+User_49,https://openalex.org/W639708223,cite,2025-05-23 10:38:29,0,Sequence (biology)
+User_49,https://openalex.org/W2111647009,click,2025-05-12 03:38:19,0,Wi-Fi
+User_49,https://openalex.org/W2004778468,click,2025-05-01 15:38:32,0,Motor cortex
+User_49,https://openalex.org/W2105934661,read,2025-04-29 14:49:57,274,Security market line
+User_49,https://openalex.org/W2964308564,click,2025-05-21 07:54:55,0,Lexical item
+User_49,https://openalex.org/W2062024414,click,2025-05-09 14:41:39,0,Mill
+User_49,https://openalex.org/W2403035479,cite,2025-05-08 23:33:41,0,System identification
+User_49,https://openalex.org/W2004778468,read,2025-05-28 21:07:46,326,Family medicine
+User_49,https://openalex.org/W2071881327,read,2025-05-19 10:36:39,410,Luminescence
+User_49,https://openalex.org/W2570343428,read,2025-05-25 05:55:30,393,Host (biology)
+User_49,https://openalex.org/W2001141328,click,2025-05-26 01:33:22,0,Term (time)
+User_49,https://openalex.org/W2067722023,click,2025-05-10 04:25:00,0,Volume (thermodynamics)
+User_49,https://openalex.org/W2101105183,read,2025-04-30 00:39:02,68,Infrared spectroscopy
+User_49,https://openalex.org/W1730782591,cite,2025-05-14 11:37:23,0,Carbon Nanotubes in Composites
+User_49,https://openalex.org/W1522048223,click,2025-05-09 00:32:03,0,Competition (biology)
+User_49,https://openalex.org/W1985749074,read,2025-05-06 04:37:10,358,Calculus of variations
+User_49,https://openalex.org/W2148698435,click,2025-05-08 00:05:00,0,Orthogonalization
+User_49,https://openalex.org/W2152885278,read,2025-05-20 15:19:43,416,Data Management and Algorithms
+User_49,https://openalex.org/W1574901103,cite,2025-04-30 12:12:00,0,Scripting language

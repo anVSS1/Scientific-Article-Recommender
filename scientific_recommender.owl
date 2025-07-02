@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xml:base="http://www.semanticweb.org/vss/ontology/scientific_recommender"
+         xmlns="http://www.semanticweb.org/vss/ontology/scientific_recommender#">
+
+<owl:Ontology rdf:about="http://www.semanticweb.org/vss/ontology/scientific_recommender"/>
+
+<owl:ObjectProperty rdf:about="#hasTopic">
+  <rdfs:domain rdf:resource="#Work"/>
+  <rdfs:range rdf:resource="#Concept"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Links a Work (article) to a Concept (topic).</rdfs:comment>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasConcept">
+  <rdfs:domain rdf:resource="#Work"/>
+  <rdfs:range rdf:resource="#Concept"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Links a Work to a Concept (broader concept).</rdfs:comment>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#isSubclassOf">
+  <rdfs:domain rdf:resource="#Concept"/>
+  <rdfs:range rdf:resource="#Concept"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Defines hierarchy between Concepts (e.g., Neural Networks under Machine Learning).</rdfs:comment>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasInterest">
+  <rdfs:domain rdf:resource="#User"/>
+  <rdfs:range rdf:resource="#Concept"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Links a User to a Concept they’re interested in (e.g., User_0 to Neural Networks).</rdfs:comment>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasAuthor">
+  <rdfs:domain rdf:resource="#Work"/>
+  <rdfs:range rdf:resource="#Author"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Links a Work to its Author(s).</rdfs:comment>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#worksAt">
+  <rdfs:domain rdf:resource="#Author"/>
+  <rdfs:range rdf:resource="#Institution"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Links an Author to their Institution.</rdfs:comment>
+</owl:ObjectProperty>
+
+<owl:DatatypeProperty rdf:about="#hasOpenAlexId">
+  <rdfs:domain rdf:resource="#Institution"/>
+  <rdfs:domain rdf:resource="#Work"/>
+  <rdfs:domain rdf:resource="#Author"/>
+  <rdfs:domain rdf:resource="#Concept"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OpenAlex ID for Works, Concepts, Authors, or Institutions.</rdfs:comment>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#hasTitle">
+  <rdfs:domain rdf:resource="#Work"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Title of a Work (article).</rdfs:comment>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#hasAbstract">
+  <rdfs:domain rdf:resource="#Work"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Abstract of a Work.</rdfs:comment>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#publishedInYear">
+  <rdfs:domain rdf:resource="#Work"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Publication year of a Work.</rdfs:comment>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#citedByCount">
+  <rdfs:domain rdf:resource="#Work"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Number of citations for a Work.</rdfs:comment>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#domain">
+  <rdfs:domain rdf:resource="#Work"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scientific domain of a Work (e.g., Artificial Intelligence).</rdfs:comment>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#hasLevel">
+  <rdfs:domain rdf:resource="#Concept"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hierarchical level of a Concept.</rdfs:comment>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#hasWikidataId">
+  <rdfs:domain rdf:resource="#Concept"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wikidata ID for a Concept.</rdfs:comment>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#has_id">
+  <rdfs:domain rdf:resource="#User"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unique ID for a User (e.g., User_0).</rdfs:comment>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#hasAbstractEmbedding">
+  <rdfs:domain rdf:resource="#Work"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SciBERT embedding for a Work’s abstract (JSON string of floats).</rdfs:comment>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#hasNameEmbedding">
+  <rdfs:domain rdf:resource="#Concept"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SciBERT embedding for a Concept’s name (JSON string of floats).</rdfs:comment>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#skos__prefLabel">
+  <rdfs:domain rdf:resource="#Concept"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Preferred label for a Concept (e.g., Neural Networks).</rdfs:comment>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#foaf__name">
+  <rdfs:domain rdf:resource="#User"/>
+  <rdfs:domain rdf:resource="#Author"/>
+  <rdfs:domain rdf:resource="#Institution"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Name of an Author, Institution, or User.</rdfs:comment>
+</owl:DatatypeProperty>
+
+<owl:Class rdf:about="#Work">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Concept">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</owl:Class>
+
+<owl:Class rdf:about="#User">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Author">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Institution">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</owl:Class>
+
+
+</rdf:RDF>
