@@ -330,10 +330,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Developer**: anVSS1  
+**Developer 1**: anVSS1  
 **Email**: contact.me.vnvss@gmail.com 
 **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/anass-ouzaouit)  
 **GitHub**: [@anVSS1](https://github.com/anVSS1)
+
+**Developer 2**: KAN         
+**LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/kannoun)
 
 Project Link: [https://github.com/anVSS1/Scientific-Article-Recommender](https://github.com/anVSS1/Scientific-Article-Recommender)
 
